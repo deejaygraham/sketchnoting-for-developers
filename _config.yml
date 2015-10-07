@@ -3,4 +3,5 @@
 # css processing
 sass:
   style: compressed
+  sass_dir: css/theme/template
   
