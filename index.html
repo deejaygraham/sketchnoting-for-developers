@@ -5,7 +5,9 @@ title: sketchnoting for developers
 
 {% for post in site.posts reversed %}
 <!-- styles for each picture -->
-<section {% if page.class %}data-state="{{page.class}}"{% endif %} {% if page.background %}data-background="{{page.background}}"{% endif %} {% if page.background-size %}data-background-size="{{page.background-size}}"{% endif %} {% if page.autoslide %}data-autoslide="{{page.autoslide}}"{% endif %}>
+<section {% if post.class %}data-state="{{post.class}}"{% endif %} {% if post.background %}data-background="{{post.background}}"{% endif %} {% if post.background-size %}data-background-size="{{post.background-size}}"{% endif %} {% if post.autoslide %}data-autoslide="{{post.autoslide}}"{% endif %}>
 {{ post.content }}
+<!-- debug only -->
+<p>{{ post.url page.date }}</p>
 </section>
 {% endfor %}
