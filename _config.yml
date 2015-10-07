@@ -1,0 +1,6 @@
+# meta
+
+# css processing
+sass:
+  style: compressed
+  
