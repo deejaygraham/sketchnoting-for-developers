@@ -1,0 +1,11 @@
+---
+layout: reveal
+title: sketchnoting for developers
+---
+
+{% for post in site.posts reversed %}
+<!-- styles for each picture -->
+<section >
+{{ post.content }}
+</section>
+{% endfor %}
