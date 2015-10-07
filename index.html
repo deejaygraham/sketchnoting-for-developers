@@ -5,7 +5,7 @@ title: sketchnoting for developers
 
 {% for post in site.posts reversed %}
 <!-- styles for each picture -->
-<section >
+<section {% if page.class %}data-state="{{page.class}}"{% endif %} {% if page.background %}data-background="{{page.background}}"{% endif %} {% if page.background-size %}data-background-size="{{page.background-size}}"{% endif %} {% if page.autoslide %}data-autoslide="{{page.autoslide}}"{% endif %}>
 {{ post.content }}
 </section>
 {% endfor %}
