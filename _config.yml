@@ -1,5 +1,9 @@
 # meta
 
+#highlight: #FF2B78
+#darkgrey: #3D424F
+#lightgrey: #6E737F
+
 # css processing
 sass:
   style: compressed

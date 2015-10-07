@@ -12,13 +12,13 @@
 
 
 // Include theme-specific fonts
-@import url(../lib/font/source-sans-pro/source-sans-pro.css);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+// @import url(../lib/font/source-sans-pro/source-sans-pro.css);
+// @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #fff;
 
-$mainColor: #FF2B78;
+$mainColor: #3D424F;
 $headingColor: #3D424F;
 
 $mainFontSize: 38px;
@@ -49,6 +49,17 @@ section.has-dark-background {
   left: 1em;
   font-size: 0.5em;
 }
+
+// need background color
+
+.reveal .slides .shocking-highlight {
+	color: #FF2B78;
+}
+
+.reveal .slides .highlight {
+	color: #FFFFFF;
+}
+
 			
 // Theme template ------------------------------
 @import "theme";
