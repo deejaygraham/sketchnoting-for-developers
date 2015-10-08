@@ -11,6 +11,6 @@ title: sketchnoting for developers
 <section {% if post.background %}data-background="{{ post.background }}"{% endif %} {% if post.background-size %}data-background-size="{{ post.background-size }}"{% endif %} {% if post.autoslide %}data-autoslide="{{ post.autoslide }}"{% endif %}>
 {{ post.content }}
 <!-- debug only -->
-<p>slide {{ counter }} - {{ post.url }}</p>
+<p>slide {{ counter }} of {{ site.posts | size }} - {{ post.url }}</p>
 </section>
 {% endfor %}
