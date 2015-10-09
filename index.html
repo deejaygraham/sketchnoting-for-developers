@@ -8,7 +8,7 @@ title: sketchnoting for developers
 {% for post in site.posts reversed %}
 {% assign counter=counter | plus:1 %}
 
-<section {% if post.background %}data-background="{{ post.background }}"{% endif %} {% if post.background-size %}data-background-size="{{ post.background-size }}"{% endif %} {% if post.autoslide %}data-autoslide="{{ post.autoslide }}"{% endif %}>
+<section {% if post.background-image %}data-background="{{ post.background-image }}"{% endif %} {% if post.background-colour %}data-background="#{{ post.background-colour }}"{% endif %} {% if post.background-size %}data-background-size="{{ post.background-size }}"{% endif %} {% if post.autoslide %}data-autoslide="{{ post.autoslide }}"{% endif %}>
 {{ post.content }}
 <!-- debug only -->
 <p>slide {{ counter }} of {{ site.posts | size }} - {{ post.url }}</p>
