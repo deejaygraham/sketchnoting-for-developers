@@ -65,3 +65,18 @@ section.has-dark-background {
 @import "theme";
 // ---------------------------------------------
 
+.reveal blockquote {
+	box-shadow: none;
+}
+
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+}
+
+// ameep pink #FF2B78 highlight
+//		dk grey #3D424F emph
+//		white #ffffff white
+//		light grey #6E737F demph
