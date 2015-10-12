@@ -1,3 +1,5 @@
+---
+---
 				
 				<section>
 					Community, Mike Rohde, Sketchnote Army
@@ -47,6 +49,7 @@
 					> Modern Toss?
 					- Cave Painting
 				</section>
+
 
 				<section>
 					Mike - pro designer - give up
@@ -243,17 +246,17 @@ Icons
 Fonts
 
 				
-Unit Test
+#Unit Test
 		
 	Good to test our code. Test of a good sketchnote is that you can recreate the highlights
 	of the talk from your SN, to be able to recall the most important parts for you.
 	If you can do this, you get a green. 
 
-Refactoring:	
+#Refactoring:	
 	Opportunity to refactor if you come up red. Use it 
 	as a learning tool for next time - Text is meaningless? Picture doesn't mean anything?
 		
-Checking in
+#Checking in
 	
 	After done, Post to twitter, tweet presenter and use event hashtag.
 	Had a lot of positive feedback from this (see more later).				
@@ -264,15 +267,19 @@ Inspiration
 	Sketchnote army
 	icon website
 		
-Using
+#Using
 
-	Conferences, talks, meetings
-	Visual recording and facilitation
-	Uses in Agile (TODO contact Laurens Bonnema)
-	Corinna Balduf
+Recording your personal Conferences, talks, meetings
+Visual recording and facilitation
+Uses in Agile (TODO contact Laurens Bonnema)
+Corinna Balduf
+Sam and Karen in SA - talk to them?
+Simon Brown - interesting work in simplifying architecture diagrams #NoUML 
 	...
-	Schools - Derek Bruff
-	Vanessa Ralph - Kickstarter - Chemistry textbook (image)
+
+Education - Derek Bruff - sketchnotes as part of teaching
+Vanessa Ralph - Kickstarter - Chemistry textbook (image)
+
 	Corey Leigh Lattislaw (TODO - Favourites)
 	Course Notes 
 	Personal Study
@@ -286,11 +293,10 @@ Using
 		I can't look at screen and type (without glasses) and look at paper with glasses. 
 		Tried out idea that if our unit tests work, we should be able to
 		  					
-After
 				
-Warning - Vanity Slides Ahead (#b5533c) autoslide
+#Warning - Vanity Slides Ahead (#b5533c) autoslide
 		 		
-	Cool things that have happened to me this year...
+#Some Cool things that have happened to me this year...
 				
 	1. Did SN of first FooCafe talk by Dan North
 	Michael Tiberg (of oredev fame) and asked for a high-res version
@@ -316,18 +322,24 @@ Warning - Vanity Slides Ahead (#b5533c) autoslide
 	./images/rohde-sketchnote-workbook.png
 	./images/rohde-sketchnote-workbook-page-55.png
 
+----
 	
-Try
+#Try
 
-	Post a sketchnote of a talk to twitter using #dddnorth
-	(or come and show me so I can tweet it)
+Post a sketchnote of a talk to twitter using #dddnorth
+(or come and show me so I can tweet it)
+
+----
 				
-Catch
+#Catch
 
-	Competition - books from Mike
-	Two best will get a copy of the SNW at the end of the day.
+Competition - books donated by Mike Rohde
+Two best will get a copy of the SNW at the end of the day.
 
-Finally
+----
 
-	Questions and Bug Reports
-	Photo Credits
+#Finally
+
+Questions and Bug Reports
+	
+Photo Credits
