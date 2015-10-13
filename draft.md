@@ -3,6 +3,28 @@
 
 #Start
 
+Hi good morning, thank you for coming to this talk 
+at too early oclock on a saturday  My name is 
+and I am a principal developer at sage
+
+How many agile developers do we have in the room?
+
+One of the big differences between traditional waterfall and agile 
+develpment practices is agiles use of big visible charts, UI and UX 
+Mock ups, burn downs, all kinds of information radiation.
+
+Concepts like Visual thinking and problem solving are starting to be picked up 
+and adopted by the agile community in all kinds of ways.
+As a culture we are often hinted at that or outright told that drawing is 
+something little children do and serious adults and professionals are too 
+grown up for that.
+
+What we know about how the brain works and how we process information mean 
+that this is a growing field of study and will be important in the future.
+
+What I'd like to share with you today are some techniques you can use immediately 
+(today even) to get you drawing more. 
+
 #What?
 
 Mike Rohde
@@ -29,9 +51,12 @@ Merlin Mann
 
 #Meanwhile
 
-Graphic Recording and Visual Facilitation
+Graphic Recording and Visual Facilitation in the 70s right up to today
 Rachel Smith
 Jeannel King
+biggest of information radiators
+
+and on back into history - cave paintings and leonardo.
 
 #Examples
 Rohde
