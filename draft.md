@@ -1,11 +1,15 @@
 ---
 ---
+
 #Start
 
 #What?
 
 Mike Rohde
 2006
+UX and UI 
+Design heavy
+37 Signals book Rework illustrations
 
 SNH Literally wrote book on it in 2012
 
@@ -34,6 +38,8 @@ Rohde
 Rachel Smith
 Eva-Lotta Lamm
 Carolyn sewell
+Guilia Forsyth
+
 ...Others
 
 #Why
@@ -140,6 +146,10 @@ Tom Gauld
 				
 ./images/xkcd-whatif-tie-coin-toss.png
 
+Modern toss
+
+Stephen Collins
+
 - Cave Painting
 
 Jeannel King
@@ -214,7 +224,9 @@ straight, columns, top down is easy
 , meander, spider web
 examples of layouts
 				
-add decoration last - capture information in lulls or after add shading etc.
+add decoration last - capture information in lulls or after add shading etc. when speaker is off 
+in the weeds use time to fill in bits or connect.
+
 				
 Embrace your mistakes
 (examples)	
@@ -405,3 +417,248 @@ Two best will get a copy of the SNW at the end of the day.
 Questions and Bug Reports
 	
 Photo Credits
+
+-----------------------------------------
+
+
+DB
+
+# What?
+
+Mike Rohde in 2006 defined them as:
+
+Roots go back a bit further:
+
+Visual Recording and Facilitation 1970's
+Rachel Smith - lets group see their work, see connections, big picture and trends (information radiator)
+
+
+Leonardo in the 1950's
+
+Visual Thinking
+
+Ideas not art
+
+Dave Gray
+"Your drawing doesnt have to be that good. Your mind will fill it in."
+
+#Examples
+
+Mike Rohde
+Jenn Wicks
+Rachel Smith
+
+#Why?
+
+Mueller and Oppenheimer 2014 - Study longhand is better than keyboard
+
+Forces you to focus on the big picture (no pun) conceptual understanding,
+integration of ideas, long-term recall
+Kiewra & Fletcher 1984
+
+Most effective way of taking notes is with overall framework and embellished with 
+critical specifics. 
+Williams & Eggert 2002
+
+
+Differences between novice and expert are connections
+How Learning works 2010 Ambrose, Bridges, DiPietro et Al
+
+Dreyfuss Model
+
+# How
+Call on Internal library of images developed over time
+that are quick and ready to go
+
+practice pulling out key points from a speaker
+
+When you are doing it you are taking what you are hearing 
+and hooking it to your internal frame of reference, learning is 
+adding new information onto old information that you already have.
+
+Writing - possible to write down word for word without understanding of content.
+Also you hope you can make sense of it later who goes back to it?
+
+VN - listen to what's being said and really hear and understand.
+Come up with your own way to represent, text or images to connect 
+what you are learning to what you already know. 
+
+Find myself asking more questions at conferences - 
+
+
+#Structures
+
+Radial
+Columns
+Modular
+Path-Meander
+Jazz
+
+#Retention
+Dual Coding 
+Van Meter & Garner 2005
+
+Ainsworth Prain Tytler 2011
+"Use of drawing caters to individual learner differences,
+as a drawing is shaped by the learners current or emerging ideas
+and knowledge..."
+
+(Picasso quote about what you see)
+
+#Why Not?
+Short term factual recall - recording complete notes (meeting minutes) is more important 
+than takeing the notes - Williams and Eggert 2002
+
+#But I Can't Draw
+
+5 basic elements go together to make up all drawings
+composition
+
+learned skill, cool to share but no one really needs to understand
+What you are creating here is a programming language for your own memory
+that's why it's so much better than F# ...
+you are creating symbols that mean something to you that literally
+compile only on your virtual machine
+(works on my machine)
+and because it's hand drawn and no keyboard is involved, it's 
+the ultimately untyped language !(groan)
+    
+
+Hand-drawn text 
+Boxes
+Flow
+
+Typography - Fonts
+Big, small, bold, different styles
+
+
+People
+Stick Figures - posture
+Star people
+Dave Gray people
+
+use numbers for ordering
+Pic of speaker
+
+Create a hierarchy using size and separation
+
+
+lowercase most often
+ALL CAPS
+and double all caps
+Script (not often)
+
+
+#Prep 
+Do title before it starts and pic of speaker if you can
+
+Save things that resonate with you or something to look up later
+
+Icons
+Label box with shadow
+Clouds - Investigate?
+Splat with Exclamation - challenge
+Sequence Number in circle
+Quotations
+Flags
+
+Lines and Arrows separate and connect
+dotted lines, arrows, big arrows, 
+headings 
+
+conceptual objects not literal
+repitition
+
+groups of people
+horses people and add details
+Drawing negative is difficult
+
+like mindmaps - iconic - mnemonics
+
+Learning style - is it good for everyone - Honey & Meldrum
+
+
+Grids, tables - the 5 things I know about GitHub
+Big Idea with lots of bits around the outside (mindmap like)
+Journey/stories/steps 1...2..3.
+
+use colour to draw attention to things - not everywhere
+
+No UML !!!!
+
+Ivar Jacobsen useless icons
+
+single page/multi page
+
+#Mistakes
+
+Cover them up
+or repeat them - first rule of improv. repeat and make it look like you 
+intended it.
+
+Examples of mistakes
+
+#Tools
+
+iPad
+
+Pen & Paper
+
+What I Use
+
+#Practice
+
+You Tube,
+Vimeo for practice
+
+Super Technical - Sasha Chua
+Doug Neill
+Chemistry Text book
+
+
+Making notes more memorable
+
+J Ricky Cox 
+"Stop And Draw"
+
+Unit Summaries
+Project Planning
+Reading Summaries
+Giving Presentations
+
+#Resources 
+
+Mike Rohde
+Sunni Brown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# We are Knowledge Workers
+
+Doesn't really exist. Always learning new things.
+
+Pattern on the stone - W Daniel Hillis
+
+
+
+
+
+
+
+
