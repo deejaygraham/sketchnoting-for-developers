@@ -268,7 +268,10 @@ Daily journal
 Book summaries
 				
 				
-	
+Painting is a blind man's profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen.”
+-Pablo Picasso 
+
+
 Why?
 
 Notes on a Laptop - twitter, facebook, email distractions oh my!
