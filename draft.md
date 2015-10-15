@@ -646,9 +646,6 @@ Chemistry Text book
 
 Making notes more memorable
 
-J Ricky Cox 
-"Stop And Draw"
-
 Unit Summaries
 Project Planning
 Reading Summaries
@@ -677,16 +674,72 @@ Sunni Brown
 
 
 
-# We are Knowledge Workers
+
+
+
+
+#Title
+
+#Drawing & Visual Thinking
+
+## We are Knowledge Workers
 
 Doesn't really exist. Always learning new things.
-
 Pattern on the stone - W Daniel Hillis
 
+Giulia Forsyth
+
+#Sketchnotes - What
+
+#
+
+# You will need
+
+# Paper and Pens
+ 
+
+# Visual Alphabet
 
 
-
-
-
-
-
+ Sunni Brown - dots, lines, spirals, waves, rectangles, circles, triangles
+ 
+ #Symbols
+ 
+ compose alphabet into your own DSL
+ 
+ # Bullets for lists
+ 
+ # Speech Bubbles
+ 
+ # Arrows
+ 
+ to link 
+ 
+ # Dividers
+ 
+ separators
+ 
+ # Typography
+ 
+ handwriting
+ block letters
+ Shadow
+ Outline
+ 
+ # People
+ 
+ #Emotions
+ Austin Kleon faces in boxes
+ 
+ 
+ #Structure
+ 
+ title, twitter name, pic?
+ 
+ based on talk 
+ 
+ get key topics down - not too much
+ 
+ Add highlights, details, accents, 
+ 
+ 
