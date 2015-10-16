@@ -288,7 +288,7 @@ Verbal and Visual info - brain rules ???
 It's fun!
 
 				
-#Encoding & Memory
+# Encoding & Memory
 					
 Sunni Brown
 Good Enough
@@ -741,5 +741,7 @@ Giulia Forsyth
  get key topics down - not too much
  
  Add highlights, details, accents, 
+ 
+ # After
  
  
