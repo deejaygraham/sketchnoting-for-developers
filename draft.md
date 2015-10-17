@@ -105,12 +105,36 @@ and on back into history - cave paintings and leonardo.
 
 # Examples
 Rohde - pictures
+Paper, Ipad etc
 Rachel Smith
 Eva-Lotta Lamm
 Carolyn sewell
 Guilia Forsyth 
 Jenn Wicks
 
+
+#How
+
+Paper
+
+iPad 
+
+Tablet
+
+Wall (professional services)
+
+#Paper
+Veronica Erb
+makayla lewis
+				
+iPad  
+Daniel Kirsch
+
+Tablet	
+Sasha Chua - super technical
+
+Wall
+Rachel Smith - Visual Recording
 
 What I like about each one...
 
@@ -156,25 +180,32 @@ also draw a picture of the physical object. Doing this meant that person was mor
 recall information when asked about the apple later. It seems that the word and the icon are stored separately 
 but linked and either can be used to recall the memory.
 
-John Medina
-Note taking reference
+Pictorial Superiority Effect, PSE - tests 2500 pictures shown to a subject for less than 10 seconds each can recall 
+90% of them several days afterwards. This recall falls to around 60% a full year afterwards.
+- Brain Rules - John Medina
 
+Had to sneak a quote from Deming in somewhere 
 Learning Quote
 
 It's all about active listening, not about winning a drawing competition, putting down what you hear onto paper.
 
-hear writing, not understood. If you put it through another medium you have to 
-engage other centres of the brain to make sense of the information.
+I have three children and all three have gone through the same experience. They have an essay to write. When it comes to 
+checking it before submission they have all been too embarrassed to read it aloud to check for errors. So simple spelling mistakes, 
+words get transposed, all things that get caught by reading aloud. 
 
-Any body had a proof reading thing? Rubber Ducking
+Who has a rubber duck on their desk at work? Or knows how to rubber duck? Have you ever had the experience of banging your 
+head against a problem for so long you can't tell which way is right anymore but stopping and finding someone to 
+explain the problem to (even a rubber duck or stuffed animal) forces you to express the problem in your own words and often 
+means that you solve the problem yourself before you stop talking. That's why you can use a rubber duck rather than a 
+real person.
 
-Brain Rules - Medina
+With normal notes, it's perfectly possible to write down everything someone says and not to have understood a word. 
+With sketchnotes, you are forced to externalise what you are hearing and come up with your own interpretation. That 
+seems to help concepts be better fixed in your memory and also to help recall. It appears to be that engaging another 
+medium in the process engages other centres of the brain to help make sense of the information and increases memory creation.
 
-Emotion runs deep and draws firm neurological paths in the brain that help you recreate the memory. Memories are recreated, not stored and retrieved.
-
-
-
-Laurens Bonnema
+Interestingly, smell seems to play the biggest part in memory making and recall. Im not sure if a talk on Smell notes
+would have got an audience!
 
 
 # DDD North 2014
@@ -185,6 +216,9 @@ just because of the sketchnoting process and that's not something I can say for 
 
 #Fun
 
+It's fun and sharing the sketchnotes on social media you can get great feedback from the community and speakers really love 
+that you have taken the time to engage so deeply with their talk.
+
 #Community 
 				
 Mike Rohde, Sketchnote Army,
@@ -193,30 +227,11 @@ Mauro Tosselli
 #Why Not
 Short term recall
 
-#How
-
-Paper
-
-iPad 
-
-Tablet
-
-Wall (professional services)
-
-#Paper
-Veronica Erb
-makayla lewis
-				
-iPad  
-Daniel Kirsch
-
-Tablet	
-Sasha Chua - super technical
-
-Wall
-Rachel Smith - Visual Recording
 
  
+
+Laurens Bonnema
+
 # My Equipment
 
 I am totally analogue in my approach. I use a Moleskine notebook which I carry with 
@@ -285,6 +300,8 @@ Modern toss
 Modern toss are super sweary but get their ideas across very quickly with very simple, scrappy pictures, very 
 few lines and few words.
 
+Finally, everyone's favourite web comic, xkcd by Randall Monroe, again stick figures and text.
+
 ./images/xkcd-whatif-tie-coin-toss.png
 
 Clearly these examples show that
@@ -296,6 +313,7 @@ not art
 Jeannel King a graphic recorder has written an ebook you can get online around this whole thing 
 - how to draw things that are "good enough" in an easy way.
 
+# Basics
 If you can write your own name and make these marks with a burnt stick:
 dot, line, arrow, circle, square, triangle you can sketchnote.
 <!-- If you can't do any of these come talk to me later -->
@@ -308,11 +326,17 @@ to establish a visual hierarchy - what's important and what's less important.
 
 Picasso pic - built from simple lines				
 
-#Hello, World
-For talks
-(getting started)
 
-pay attention
+So let's talk about how to get started sketchnoting a presentation like the ones 
+we have today...
+
+#Hello, World
+
+Find out what the title is, and the speaker and fill those in first. Off to a good start.
+Listen to the first few remarks and try to judge what kind of layout you should use - is this 
+10 things I hate about..., is it a meandering recollection of past events...?
+
+Pay attention, don't allow yourself to drift off.
 
 Follow the speaker
 body language, voice - not the slides - they are available online after talk
@@ -333,29 +357,24 @@ boxes and arrows to give emphasis' - hiearchy
 
 Capture what stands out to you.
 
-DSL 
-F# untyped language no keyboard involved, only has to make sense for you.
-
-Works on my machine.
-All about communication.
-
 Skip bits that don't interest you
 
 Jokes, quotes f-bombs - high emotion or excitement, dramatic pauses, 
 metaphors and similies	
 				
-Create your own visual language (DSL)
-
 Quotes, things to lookup later, book references, unanswered questions
 
 (Find some examples -eva lotta lamm use of quotes)
 
+# Using 
+
 Is it just for talks? Other uses - one technique to get you started.
 
 
+# Inspiration
 
 sketchote army for inspiration and posting new stories
-flickr, PInterest
+Twitter flickr, PInterest
 
 Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
 Write like you are drawing - more appreciation for typography.
