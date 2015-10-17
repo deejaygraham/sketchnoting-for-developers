@@ -185,6 +185,12 @@ Evolutionarily, threats to our survival came to us first visually in the shape o
 
 Words are only postage stamps delivering the object for you to unwrap - george bernard shaw
 
+Brain Rules
+Senses designed to work together - sow when combined in a learning environment,
+images and text say, the brain pays more attention and encodes the memory
+more robustly.
+*Smell is especially important* - Look for mor examples
+
 Interestingly, smell seems to play the biggest part in memory making and recall. Im not sure if a talk on Smell notes
 would have got an audience!
 
@@ -289,6 +295,9 @@ not art
 Jeannel King a graphic recorder has written an ebook you can get online around this whole thing 
 - how to draw things that are "good enough" in an easy way.
 
+--------------------------------------------------------------------------------------------------
+
+
 # Basics
 If you can write your own name and make these marks with a burnt stick:
 dot, line, arrow, circle, square, triangle you can sketchnote.
@@ -324,6 +333,9 @@ straight, columns, top down is easy
 , meander, spider web, jazz
 
 examples of layouts
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 So let's talk about how to get started sketchnoting a presentation like the ones 
 we have today...
@@ -372,6 +384,10 @@ Don't get all the detail
 At it's most basic, it's writing and using boxes and lines 
 to establish a visual hierarchy - what's important and what's less important.	 
 
+
+Filter and focus on what's important'
+
+
 # Keep it simple
 
 Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
@@ -405,90 +421,9 @@ Don't worry about spelling or drawing mistakes. You can come back and fill in le
 mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
 you have done wrong will stop you capturing anything else the speaker has to say.
 
-
-# Using 
-
-Is it just for talks? Other uses - one technique to get you started.
-Laurens Bonnema, agile coach - retrospectives, reviews and sprint planning. If anyone is interested in this, Laurens runs 
-a course for Product Owners and there are details in the SNW.
-
-
-# Inspiration
-
-sketchote army for inspiration and posting new stories
-Twitter flickr, PInterest
-
-
-
-				
-
-				
-
-				
-Embrace your mistakes
-(examples)	
-Smudges and spelling problems
-Y and A can be cleaned up
-				
 Practice improves
 Confreaks, youtube - no pressure way to practice - press pause
 
-Filter and focus on what's important'
-
-Austin Kleon steal like an artist
-Daily journal
-Book summaries
-				
-				
-Painting is a blind man's profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen.”
--Pablo Picasso 
-
-
-Why?
-
-Notes on a Laptop - twitter, facebook, email distractions oh my!
-					
-Improve learning &amp; retention
-
-
-				
-Dual Coding Theory - Allan Paivio 
-				
-Verbal and Visual info - brain rules ???
-				
-It's fun!
-
-				
-#Encoding & Memory
-	
-
-
-Brain Rules
-Senses designed to work together - sow when combined in a learning environment,
-images and text say, the brain pays more attention and encodes the memory
-more robustly.
-*Smell is especially important* - Look for mor examples
-
-Merlin - Visualisation
-Rule of Thumb - John Medina presenters.
-
-Pioneers
-
-Julie Stitt
-
-Jeannel King
-
-DSL
-
-Works on My Machine
-
-Icons
-
-
-
-# Fonts
-
-				
 # Unit Test
 
 Good to test our code. Test of a good sketchnote is that you can reconstruct the highlights
@@ -519,7 +454,20 @@ infrequently and in batches rather than when I do them.
 
 My live sn was at ddd north 14 and had some lovely conversations with the presenters after the conference was over
 
-#Using
+Corey Lattislaw - usually photographs at end but gets the award for most high-tech solution for using Google Glass to 
+record her sketchnotes live and then share the still images and short vine-like videos on G+.
+
+# Using 
+
+Is it just for talks? Other uses - one technique to get you started.
+Laurens Bonnema, agile coach - retrospectives, reviews and sprint planning. If anyone is interested in this, Laurens runs 
+a course for Product Owners and there are details in the SNW.
+
+Julie Stitt and Derek Bruff are exploring using VN in class rooms and are seeing improvements in pupil outcomes
+
+Austin Kleon steal like an artist - a writer who draws 
+Daily journal
+Book summaries
 
 Recording your personal Conferences, talks, meetings
 Visual recording and facilitation
@@ -539,30 +487,33 @@ Elizabeth McClellan
 
 Simon Brown - interesting work in simplifying architecture diagrams #NoUML 
 
-	...
-
 Education - Derek Bruff - sketchnotes as part of teaching
 Vanessa Ralph - Kickstarter - Chemistry textbook (image)
 
-	Corey Leigh Lattislaw (TODO - Favourites)
-	Course Notes 
 Julie Stitt banned notes in class for her teaching and saw improvements in engagement.
-	Personal Study
-		Muda, Mura, Muri
-		Dreyfuss Model
-	...
 	
-My Contribution - In Reverse
-	Had to do a talk which had no slides and had to do a fair bit of live coding. 
+# Personal Study
+I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
+Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
+
 	
-	Hate live coding but couldn't get out of it but also hate not having notes. Getting old,
-	I can't look at screen and type (without glasses) and look at paper with glasses. 
-	Tried out idea that if our unit tests work, we should be able to
-		  					
+# My Contribution - In Reverse
 
+Had to do a talk which included a fair bit of live coding and was pointless having a powerpoint I was 
+constantly switching to and from. I still needed a narrative flow through the ideas and hate having 
+notes jotted down - glasses - where I find I spend most of my time looking down and reading the notes to 
+myself with long pauses. Didn't have the opportunity to rehearse very much either. So I decided to test 
+the claim that the memory thing would work and I created sketchnote of what I imaginged someone who was watching
+me would make. I then used this as my guide for the talk - it was easy to keep track of where I was in the 
+flow without having to keep reading word for word. 
+	
+Hate live coding but couldn't get out of it but also hate not having notes. Getting old,
+I can't look at screen and type (without glasses) and look at paper with glasses. 
+Tried out idea that if our unit tests work, we should be able to fly using them on their own. 
 
-
-
+And so was born the concept of Sketchnoting in Reverse. I blogged and tweeted about it and that was it.
+The presentation worked beautifully and I had a lot of good feedback from it. I have since used it a few 
+more times for other talks and sometimes to help me plan a talk.
 
 <!-- Evidence that you aren't full of hot air. -->		
 
@@ -657,7 +608,8 @@ The Pen Is Mightier Than the Keyboard : Advantages of Longhand Over Laptop Note 
 
 How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambrose, Bridges, DiPietro, Lovett, Norman - Wiley 2010
 
--------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
 
 
 
