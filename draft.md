@@ -1,20 +1,12 @@
 ---
+
 ---
-
-
-<!-- http://scottberkun.com/2013/how-to-present-well-without-slides/
-
+<!-- 
+http://scottberkun.com/2013/how-to-present-well-without-slides/
 http://scottberkun.com/2013/updated-speaking-checklist-for-great-talks-printable/
-
 https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b
-
-
-
-
 -->
-
 # Introduction
-
 
 Hi good morning, thank you for coming to ddd abd this talk at too early oclock on a saturday.
 My name is Derek Graham and I am a principal developer at Sage
@@ -40,11 +32,17 @@ purely on the effectiveness of these techniques for communication and learning.
 What little we know about how the brain works and how we store and process information mean 
 that this is a growing field of study and will be increasingly important in the future.
 
+As developers during our careers we will be called on to constantly keep our knowledge, our skills 
+up to date and learn, unlearn and re-learn as fast as we can. We should take advantage of 
+as many opportunities as we can to make that job easier.
+
 I'm a developer working in an agile team and I should be drawing and communicating more.
 
 What I'd like to share with you today is what I think of as the gateway drug, sketchnoting, and 
 show your some techniques you can use in the rest of your sessions at DDD and I hope you'll be 
 inspired to try using them in your personal and professional lives. 
+
+Pattern on the stone - W Daniel Hillis
 
 <!-- Why now ? - will it get worse? -->
 
@@ -104,44 +102,19 @@ and on back into history - cave paintings and leonardo.
 -->
 
 # Examples
-Rohde - pictures
-Paper, Ipad etc
-Rachel Smith
-Eva-Lotta Lamm
-Carolyn sewell
-Guilia Forsyth 
-Jenn Wicks
-
-
-#How
-
-Paper
-
-iPad 
-
-Tablet
-
-Wall (professional services)
-
-#Paper
+Rohde - pictures - paper
 Veronica Erb
-makayla lewis
-				
-iPad  
-Daniel Kirsch
-
-Tablet	
-Sasha Chua - super technical
-
-Wall
-Rachel Smith - Visual Recording
+Makayla Lewis - uk
+Eva-Lotta Lamm 
+Guilia Forsyth 
+Carolyn Sewell
+Rachel Smith, Daniel Kirsch - ipad
+Sasha Chua - Tablet
+Jeanel King - Wall
 
 What I like about each one...
 
-
-Knowledge Workers - Peter Drucker
 Computers - Tom Gauld
-Improve Learning
 
 #Why?
 
@@ -207,6 +180,11 @@ With sketchnotes, you are forced to externalise what you are hearing and come up
 seems to help concepts be better fixed in your memory and also to help recall. It appears to be that engaging another 
 medium in the process engages other centres of the brain to help make sense of the information and increases memory creation.
 
+Evolutionarily, threats to our survival came to us first visually in the shape of an approaching tiger rather than a hand-written invitation
+- the tiger who came to tea. 
+
+Words are only postage stamps delivering the object for you to unwrap - george bernard shaw
+
 Interestingly, smell seems to play the biggest part in memory making and recall. Im not sure if a talk on Smell notes
 would have got an audience!
 
@@ -225,14 +203,10 @@ that you have taken the time to engage so deeply with their talk.
 #Community 
 				
 Mike Rohde, Sketchnote Army,
-Mauro Tosselli
+Mauro Tosselli, sketchnoters in general, kind and generous of their time.
 
 #Why Not
 Short term recall
-
- 
-
-Laurens Bonnema
 
 # My Equipment
 
@@ -322,12 +296,34 @@ dot, line, arrow, circle, square, triangle you can sketchnote.
 
 # Composition
 
-Obviously we use these shapes to build other shapes					
-At it's most basic, it's writing and using boxes and lines 
-to establish a visual hierarchy - what's important and what's less important.					
+Obviously we use these shapes to build other shapes									
 
 Picasso pic - built from simple lines				
 
+# Elements
+
+# Text and Typography
+
+A big part of sketchnoting is making your writing look nice. 
+
+Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
+Write like you are drawing - more appreciation for typography.
+
+Practice several types of well type - block capitals, lower case, script, 3d when you get more ambitious.
+
+# Type Errors 
+
+I am really bad at writing block Y's and A's. They are never symmetrical and I always slightly dread doing them. Here's 
+a tip to correct type errors. Use double lines or fill in parts of a character to even up type, correct kerning, even 
+out letter height and sometimes correct spelling. 
+
+
+
+# Layouts
+straight, columns, top down is easy
+, meander, spider web, jazz
+
+examples of layouts
 
 So let's talk about how to get started sketchnoting a presentation like the ones 
 we have today...
@@ -348,7 +344,7 @@ Don't boil the ocean
 If you only had 10 tweets to describe this talk, what would you use 
 them to tweet about ? 
 
-Technical talks - Don't capture code
+Technical talks - Don't capture code.
 Sasha Chua
 Listen for advice, libraries, products, fine just to watch demo.
 Tom Stuart, richard dalton
@@ -366,11 +362,55 @@ metaphors and similies
 				
 Quotes, things to lookup later, book references, unanswered questions
 
+add decoration last - capture information in lulls or after add shading etc. when speaker is off 
+in the weeds use time to fill in bits or connect.
+
 (Find some examples -eva lotta lamm use of quotes)
+
+Don't get all the detail
+
+At it's most basic, it's writing and using boxes and lines 
+to establish a visual hierarchy - what's important and what's less important.	 
+
+# Keep it simple
+
+Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
+of importance to everything in your note.
+
+# Create your own DSL
+
+In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
+What will develop are a set of repeating icons that you will use over and over again to act as markers in your notes.
+
+E.g. 
+Lightbulb for idea
+Something you disagree with or controversial could be an exclamation mark
+A bang splat could be a surprising idea or a surprising fact. 
+Book for reference to look up
+Cloud for something to google
+
+Over time you'll become more comfortable with these icons and fluent in drawing them. They become your "Visual Language" 
+as sketchoting DSL if you will. They really are there to communicate with you personally so it's fine if they don't 
+match someone else's personal "language" but used consistently the context will communicate with others.
+
+Anyone reading the abstract for this talk will have noticed I mentioned in it that sketchnoting was better than F#. This 
+was mostly a troll for Richard Dalton who is giving a talk on F# somewhere else in the building at the moment. But it really 
+is true. This hand-written DSL you are developing does not involve a keyboard - therefore it's "untyped" and it is really 
+only required to parse or compile on a single machine - your brain. (works on my machine).
+
+
+# Embrace your mistakes
+
+Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
+mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
+you have done wrong will stop you capturing anything else the speaker has to say.
+
 
 # Using 
 
 Is it just for talks? Other uses - one technique to get you started.
+Laurens Bonnema, agile coach - retrospectives, reviews and sprint planning. If anyone is interested in this, Laurens runs 
+a course for Product Owners and there are details in the SNW.
 
 
 # Inspiration
@@ -378,16 +418,11 @@ Is it just for talks? Other uses - one technique to get you started.
 sketchote army for inspiration and posting new stories
 Twitter flickr, PInterest
 
-Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
-Write like you are drawing - more appreciation for typography.
+
+
 				
-layouts
-straight, columns, top down is easy
-, meander, spider web
-examples of layouts
+
 				
-add decoration last - capture information in lulls or after add shading etc. when speaker is off 
-in the weeds use time to fill in bits or connect.
 
 				
 Embrace your mistakes
@@ -456,37 +491,34 @@ Icons
 				
 # Unit Test
 
-	Good to test our code. Test of a good sketchnote is that you can reconstruct the highlights
-	of the talk from your SN, to be able to recall the most important parts for you.
-	what are you going to remember and how are you going to remember?
+Good to test our code. Test of a good sketchnote is that you can reconstruct the highlights
+of the talk from your SN, to be able to recall the most important parts for you.
+what are you going to remember and how are you going to remember?
 		
-	If you can do this, you get a green. 
+If you can do this, you get a green. 
 
 #Refactoring:	
-	Opportunity to refactor if you come up red. Use it 
-	as a learning tool for next time - Text is meaningless? Picture doesn't mean anything?
+	
+Opportunity to refactor if you come up red. Use it 
+as a learning tool for next time - Text is meaningless? Picture doesn't mean anything?
 		
 #Checking in
-	
-	After done, Post to twitter, Flickr, PInterest.
-	Tweet presenter and use event hashtag.
-	Had a lot of positive feedback from this (see more later).				
 
-share
-with twitter,
-use # and @ speaker
-keeps conversation going after the talk
-speakers love it
+Share
+
+After talk is done, photograph it and post to twitter, Flickr, PInterest.
+Tweet presenter and use event hashtag. Shows you've paid attention and engaged. 
+It's a good way to show appreciation for the speaker (and they love it)
+and it can expand on and keep the conversation going after the talk, perhaps extending your 
+knowledge or understanding further.
+
+Had a lot of positive feedback from this (see more later).				
+
+You can tidy up and scan them in if you feel like it. I do for my blog but I tend to do it 
+infrequently and in batches rather than when I do them.
+
 My live sn was at ddd north 14 and had some lovely conversations with the presenters after the conference was over
-Shows you've paid attention and engaged'
 
-
-#Inspiration
-
-	Steal techniques - how someone draws an icon? Make it yours 
-	Sketchnote army
-	icon website
-		
 #Using
 
 Recording your personal Conferences, talks, meetings
@@ -542,17 +574,17 @@ My Contribution - In Reverse
  		
 #Some Cool things that have happened to me this year...
 				
-1. Did SN of first FooCafe talk by Dan North
-Michael Tiberg (of oredev fame) and asked for a high-res version
-Going to use as promotional posters for FooCafe around university campuses etc.
-Being printed about now, need to get a picture of one in situ
+1. I did a SN of the first meeting of Michael Tiberg's FooCafe, where Dan North talked about deliberate practice.
+Michael Tiberg (of oredev fame) contacted me and asked for a high-res version of the picture I posted on twitter.
+They are going to use it for A1 size promotional posters for FooCafe around university campuses, co-working spaces etc.
+They are being printed about now, need to get a picture of one in situ.
 
 ./images/foo-cafe-site.jpg
 
 					
-2. Paul Klipp asked for SN's for the ACE conference he organizes in 
-Poland. I was picked to contribute and did one for the lean pub 
-proceedings on tom gilb's talk.  
+2. Paul Klipp asked for SN's for the 2015 ACE conference he organizes in 
+Poland. I was picked to contribute and drew the short straw for Tom Gilb's data heavy talk on agile's roots
+and his experiences of consulting with organizations. The procedings are available for donations from leanpub 
 
 ./images/ace-conference-2014-tom-gilb - keynote.png
 
@@ -566,25 +598,43 @@ asked if he could include it in his book.
 ./images/rohde-sketchnote-workbook.png
 ./images/rohde-sketchnote-workbook-page-55.png
 
+# Inspiration
+
+Finally some sources of inspiration, no shortage on social media,
+so find someone or a few people whose styles you like and steal icons and 
+techniques you like. I often find that I find one thing I like and make a note 
+to nick it, rather than the whole thing.
+
+Sketchnote army
+icon website
+		
 ----
 	
 #Try
 
-Post a sketchnote of a talk to twitter using #dddnorth
+Try for one or more of the sessions today. I have the word of the organizer that 
+nobody will kill you for trying. 
+
+Post a picture sketchnote of a talk to twitter using #dddnorth or tweet @DDDNorth
 (or come and show me so I can tweet it)
 
 ----
 				
 #Catch
 
-Competition - books donated by Mike Rohde
-Two best will get a copy of the SNW at the end of the day.
+I will pick at semi-random a winner who will receive a copy of Mike Rohde's new book
+the SNW at the end of the day. If you aren't in the room for the giveaways you won't get it
+and I'll pick someone else.
 
 ----
 
 #Finally
 
+That's the end...
+
 # Questions 
+
+
 Not given this talk very much so there are bugs in it. If you find one please
 let me know.
 	
@@ -592,7 +642,23 @@ let me know.
 
 Atlassian - Jeff Patton 
 
+ 
 # References
+ 
+SketchNote Handbook - Mike Rohde
+
+Brain Rules - John Medina
+
+Dual Coding Theory and Education - Paivio - University of Western Ontario, Pathways to Literacy Achievement for High Poverty Children, 2006
+
+Research On Student Notetaking: Implications for Faculty and Graduate Student Instructors - DeZure, Kaplan, Deerman
+
+The Pen Is Mightier Than the Keyboard : Advantages of Longhand Over Laptop Note Taking - Mueller & Oppenheimer - 2014
+
+How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambrose, Bridges, DiPietro, Lovett, Norman - Wiley 2010
+
+-------------------------------------------------------------------------
+
 
 
 
@@ -790,9 +856,6 @@ Austin Kleon
 
 ## We are Knowledge Workers
 
-Doesn't really exist. Always learning new things.
-Pattern on the stone - W Daniel Hillis
-
 Giulia Forsyth
 
 #Sketchnotes - What
@@ -857,16 +920,7 @@ handwritten notes not typed ones
 http://www.psychologicalscience.org/index.php/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html
 
 
- 
-# References
- 
-Dual Coding Theory and Education - Paivio - University of Western Ontario, Pathways to Literacy Achievement for High Poverty Children, 2006
 
-Research On Student Notetaking: Implications for Faculty and Graduate Student Instructors - DeZure, Kaplan, Deerman
-
-The Pen Is Mightier Than the Keyboard : Advantages of Longhand Over Laptop Note Taking - Mueller & Oppenheimer - 2014
-
-How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambrose, Bridges, DiPietro, Lovett, Norman - Wiley 2010
 
 
 # Use you active listening
@@ -894,38 +948,9 @@ original idea more entertaining to you and therefore more likely to form a stron
 
 EXAMPLE
 
-# Embrace your mistakes
 
-Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
-mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
-you have done wrong will stop you capturing anything else the speaker has to say.
 
 # Keep in mind how you learn
 
 Do you prefer more words and fewer pictures or more pictures with just a few key words sprinkled about?
 
-# Keep it simple
-
-Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
-of importance to everything in your note.
-
-# Create your own DSL
-
-In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
-What will develop are a set of repeating icons that you will use over and over again to act as markers in your notes.
-
-E.g. 
-Lightbulb for idea
-Something you disagree with or controversial could be an exclamation mark
-A bang splat could be a surprising idea or a surprising fact. 
-Book for reference to look up
-Cloud for something to google
-
-Over time you'll become more comfortable with these icons and fluent in drawing them. They become your "Visual Language" 
-as sketchoting DSL if you will. They really are there to communicate with you personally so it's fine if they don't 
-match someone else's personal "language" but used consistently the context will communicate with others.
-
-Anyone reading the abstract for this talk will have noticed I mentioned in it that sketchnoting was better than F#. This 
-was mostly a troll for Richard Dalton who is giving a talk on F# somewhere else in the building at the moment. But it really 
-is true. This hand-written DSL you are developing does not involve a keyboard - therefore it's "untyped" and it is really 
-only required to parse or compile on a single machine - your brain. (works on my machine).
