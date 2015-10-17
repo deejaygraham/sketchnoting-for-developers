@@ -18,41 +18,61 @@ Identify obstacles and explain how to overcome them.
 Evidence that you aren't full of hot air.
 
 
-#Start
+# Introduction
 
-Hi good morning, thank you for coming to this talk 
-at too early oclock on a saturday  My name is 
-and I am a principal developer at sage
+Hi good morning, thank you for coming to ddd abd this talk at too early oclock on a saturday.
+My name is Derek Graham and I am a principal developer at Sage
 
 How many agile developers do we have in the room?
 
-One of the big differences between traditional waterfall and agile 
-develpment practices is agiles use of big visible charts, UI and UX 
-Mock ups, burn downs, all kinds of information radiation.
+One of the big outward differences between "traditional" and agile projects is the use of what 
+Ron Jeffries calls "Big Visible Charts" and Alistair Cockburn called "Information Radiators".
+Big graphics on the walls of a team space that show ideas for new things, what's being worked on, 
+progress towards a goal - UI mock ups, burn downs, kanbans. These things are in line with the XP 
+value of communication and the idea of "Individuals and interactions over processes and tools".
+ 
+And yet as a culture, little children are not self-concious when they draw, but as we grow up 
+and get more "serious" and "professional" we gradually get the feeling that it's not the done thing.
 
-Concepts like Visual thinking and problem solving are starting to be picked up 
-and adopted by the agile community in all kinds of ways.
-As a culture we are often hinted at that or outright told that drawing is 
-something little children do and serious adults and professionals are too 
-grown up for that.
+Thankfully concepts like Visual Thinking and problem solving and Visual Notetaking are starting 
+to be picked up and adopted by the agile community in all kinds of ways. This adoption is based 
+purely on the effectiveness of these techniques for communication and learning.
 
-What we know about how the brain works and how we process information mean 
-that this is a growing field of study and will be important in the future.
+What little we know about how the brain works and how we store and process information mean 
+that this is a growing field of study and will be increasingly important in the future.
 
-What I'd like to share with you today are some techniques you can use immediately 
-(today even) to get you drawing more. 
+I'm a developer working in an agile team and I should be drawing and communicating more.
 
+What I'd like to share with you today is what I think of as the gateway drug, sketchnoting, and 
+show your some techniques you can use in the rest of your sessions at DDD and I hope you'll be 
+inspired to try using them in your personal and professional lives. 
+
+# Mary
+
+In the late 90's I attended a c++ conference in Oxford which included a few sessions on agile, lean 
+and XP. One talk was given by the fabulous Mary Poppendieck (picture) and it was a talk that changed my life.
+At the time, the company I worked for were adopting lean production techniques for their hardware 
+manufacturing and assembly but those concepts didn't make it upstairs to the software department. Mary's 
+keynote helped me understand what those concepts meant for software. I still have the notes but I 
+couldn't tell you what they were about. My only memory of the talk was of her talking about the Toyota 
+Production System, stop the line quality and the mechnical looms of the Toyoda Weaving mills of the 
+late 19th and early 20th century.
+
+How many more times have I attended an important event and promised this time, I'll take good, long form notes and
+definitely refer to them again, they will be so useful. There they sit, still in a drawer, curling at the 
+edges and yellowing slightly. 
+ 
 #What?
 
-Mike Rohde
-2006
-UX and UI 
-Design heavy
-37 Signals book Rework illustrations
+Someone who was equally frustrated with long form, hand written or typed note taking was 
+Mike Rohde, a UX and design specialist who has illustrated books by 37 signals (picture),
+started identifying alternative note taking strategies in 2006 and went on to 
+literally write the book on sketchnotes in 2012.
 
-SNH Literally wrote book on it in 2012
+In the book Mike defined sketchnotes like this:
 
-Defined it as this:
+“...rich visual notes created from a mix of handwriting, drawings, hand-drawn typography, 
+shapes and visual elements like arrows, boxes and lines.”
 
 #Meanwhile
 
@@ -75,26 +95,24 @@ biggest of information radiators
 
 and on back into history - cave paintings and leonardo.
 
-#Examples
-Rohde
+# Examples
+Rohde - pictures
 Rachel Smith
 Eva-Lotta Lamm
 Carolyn sewell
-Guilia Forsyth
+Guilia Forsyth 
 
-...Others
-
-#Why
+# Why
 Knowledge Workers - Peter Drucker
 Computers - Tom Gauld
 Improve Learning
 
-#Magic and Mentalism
+# Magic and Mentalism
 Memory champions - Sherlock
 Memorise names, packs of Cards, 
 Ancient Greece - memory palaces
 
-#Science
+# Science
 Dual Coding Theory - Alan Paivio
 John Medina
 Note taking reference
@@ -835,32 +853,61 @@ TIP #4: Before you start to listen in a real setting, give yourself some context
 
 TIP #5: STOP EVERYTHING YOU’RE THINKING and listen. Suspend your own frame of reference. Focus externally. Turn off your ego. Quit thinking everything revolves around your opinion. Give the stage in your head to someone else! (I know what you’re thinking, but just do as I say and not as I do. Joke! I have mastered this skill but I was the most unlikely candidate, so take comfort. Anyone can do this if s/he wants to.)
 
-TIP #6: Prioritize what you’re capturing. Listen for ‘the bones.’ You won’t be tested on everyone’s name and what their favorite breakfast cereal is; you’re listening for what matters. Listen for qualifying statements that indicate level of importance (“You don’t want to miss this!”) and also learn to distinguish between content you can access later (available publicly) and content you can’t (information people pay for).
 
-TIP #7: Use telegraphic sentences or phrases. When someone says, “Today I’m going to discuss five important initiatives that will lead our company to success,” just write “5 Initiatives to Success.” Sometimes you can use just one word and in this case that word would be ‘Initiatives.’ (Nice quote by Stephen Sondheim: “It’s the word, not the sentence.” So true.) So listen for the gems in the speakers’ points and add an icon that triggers or evokes the memory of the story.
 
-TIP #8: Pay attention to the narrative build. Presenters often start by stating what they’re going to take you through. They’ll say, “First, I’m going to go over some facts, then I’m going to describe the value, then I’ll give you tips.” So you can know literally where you are in a presentation – the beginning, middle or end and that helps you with pacing and spacing. If you’ve got one page left in your notebook and the presenter has only just begun, you’ll know to simplify your sentences even more and write or draw smaller if you can. Note! If you listen carefully, you can also determine when presenters are incoherent and unfortunately, that will be reflected if your work is accurate. On the plus side, you can give the presenter really good feedback for the next time they present. (They love unsolicited feedback…..right.)
+# Listen to the presenter's early remarks
 
-TIP #9: ‘Cache’ content. If the pace is too fast, write or draw just enough to trigger your memory and go back to it later. Give yourself two letters of a word or ½ of a phrase or a visual clue of some kind. Interestingly enough, even if you never actually go back to fill it in, you’ll still likely know what you meant.
+They will often list the topics they are going to talk about and this will give you an opportunity to plan how to 
+lay out content on the page. 10 things I hate about javascript might give you an idea to use two rows of 5 columns, one
+box for each of the 10 things.
 
-TIP #10: Learn to anticipate the quality of a Q and A. Short questions tend to get short, “popcorn” responses. Long questions tend to get lengthy responses. The orange circles and red bullets in the image below show you how to capture answers quickly.
+# Use your Cache
 
-culture-class-1
+If the speaker is listing important things too quickly, try writing just the first word or part of a word for each item 
+then come back and fill in when you have a chance.
 
-TIP #11: Listen for metaphors and similes. “This project feels like diving in a rabbit hole.” “You are an endless tornado of agony.” These literary devices really tell you how people understand their topic or their world, and they often give you something to draw so you don’t have to invent the wheel. You see right there? “Invent the wheel!” Perfect.
+# Listen for metaphors and similies
 
-TIP #12: If content starts to seriously outpace you, resort to lines, connectors, frames, containers, and color. In times like these, there is no luxury for drawing metaphors or even elaborate illustrations. This can very often happen during a Q&A. See the example below.
+Often speakers will suggest a visual to you with their language but also be open to the possiblitiy of possible misunderstanding. 
+Often taking what the speaker says literally or intentionally misunderstanding can lead to ideas for visuals that make the 
+original idea more entertaining to you and therefore more likely to form a strong association in your memory.
 
-executive-qa-closing-remarks2
+EXAMPLE
 
-TIP #13: Listen for descriptions about structure. ‘It’s a vicious or virtuous cycle.’ ‘It’s a hierarchical system.’ ‘These departments run parallel to each other.’ Like metaphors, these are cues that lead you to an appropriate visual without imposing too much load on your brain’s right hemisphere. The presenter is offering you a visual, so use it.
+# Embrace your mistakes
 
-TIP #14: If you feel like you missed a significant point, move on. Getting your wheels stuck will only cause a traffic jam for future information.
+Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
+mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
+you have done wrong will stop you capturing anything else the speaker has to say.
 
-TIP #15: Don’t fixate on misspellings or mistakes. First, if your notes are in your lap, no one may see this but you, second, even if they’re on a flip chart or a huge board in front of everyone, you’ll jeopardize what you’re about to capture by lamenting not being perfect. When taking visual notes, remember, the key is to KEEP taking visual notes. Try not to falter for no good reason.
+# Keep in mind how you learn
 
-TIP #16: Be aware of the text/imagery balance. Learn what works for YOU – whether you retain information best by leaving words off and focusing on imagery or whether you need text-based information to come back to. Find a balance that works for you. Experiment with varying ratios of words to images. Find what ratio has the best impact on your comprehension and retention. I know a researcher and professor named Virginia Scofield, Ph.D., and for years in her classroom she actually requested that her students ONLY use imagery to capture her lecture. No words. She had remarkable success with their comprehension and retention. So try it many ways and find your personal sweet spot.
+Do you prefer more words and fewer pictures or more pictures with just a few key words sprinkled about?
 
-TIP #17: Keep your images simple. Very basic shapes (bullets, lines/connectors and containers/frames) suffice to create a visual landscape that will trigger your memory and the memory of anyone watching you create it.
+# Keep it simple
 
-TIP #18: Establish a graphic vocabulary to liberate you from trying to visualize a concept while you’re taking rapid notes. An ‘idea’ is a light bulb. ‘Excitement’ is a large exclamation mark. ‘Partnership’ is two people with their arms around each other. ‘Creativity’ might be a human head with flowers sprouting off the top. Create your own language and become fluent in it. The process of establishing a graphic vocabulary is wonderfully fun anyway. And to get started, try Nancy Margulies’ book Visual Thinking and The Grove Consultants International’s workbook Graphic Facilitation. The latter is really good because Yours Truly is on the cover. I am the woman in black! It’s my power color.
+Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
+of importance to everything in your note.
+
+# Create your own DSL
+
+In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
+What will develop are a set of repeating icons that you will use over and over again to act as markers in your notes.
+
+E.g. 
+Lightbulb for idea
+Something you disagree with or controversial could be an exclamation mark
+A bang splat could be a surprising idea or a surprising fact. 
+Book for reference to look up
+Cloud for something to google
+
+Over time you'll become more comfortable with these icons and fluent in drawing them. They become your "Visual Language" 
+as sketchoting DSL if you will. They really are there to communicate with you personally so it's fine if they don't 
+match someone else's personal "language" but used consistently the context will communicate with others.
+
+Anyone reading the abstract for this talk will have noticed I mentioned in it that sketchnoting was better than F#. This 
+was mostly a troll for Richard Dalton who is giving a talk on F# somewhere else in the building at the moment. But it really 
+is true. This hand-written DSL you are developing does not involve a keyboard - therefore it's "untyped" and it is really 
+only required to parse or compile on a single machine - your brain. (works on my machine).
+
+
