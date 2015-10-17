@@ -182,10 +182,13 @@ but linked and either can be used to recall the memory.
 
 Pictorial Superiority Effect, PSE - tests 2500 pictures shown to a subject for less than 10 seconds each can recall 
 90% of them several days afterwards. This recall falls to around 60% a full year afterwards.
-- Brain Rules - John Medina
+- Brain Rules - John Medina. According to Dr Medina, the reason text alone works so badly is because the brain 
+actually sees text as lots of tiny pictures and though it can group them together into patterns of words, it is 
+still much less efficient than a good picture.
 
 Had to sneak a quote from Deming in somewhere 
-Learning Quote
+&ldquo;People learn in different ways: reading, listening, pictures, watching. 
+W. Edwards Deming, the New Economics
 
 It's all about active listening, not about winning a drawing competition, putting down what you hear onto paper.
 
@@ -226,7 +229,6 @@ Mauro Tosselli
 
 #Why Not
 Short term recall
-
 
  
 
@@ -413,8 +415,7 @@ Notes on a Laptop - twitter, facebook, email distractions oh my!
 					
 Improve learning &amp; retention
 
-&ldquo;People learn in different ways: reading, listening, pictures, watching. 
-W. Edwards Deming, the New Economics
+
 				
 Dual Coding Theory - Allan Paivio 
 				
