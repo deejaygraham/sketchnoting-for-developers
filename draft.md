@@ -1,28 +1,25 @@
 ---
 ---
 
-http://scottberkun.com/2013/how-to-present-well-without-slides/
+
+<!-- http://scottberkun.com/2013/how-to-present-well-without-slides/
 
 http://scottberkun.com/2013/updated-speaking-checklist-for-great-talks-printable/
 
 https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b
 
-Name the enemy - name the thing that's getting in the way of happiness
 
-Why now ? - will it get worse?
 
-Show the promised land before explaining how you'll get there
 
-Identify obstacles and explain how to overcome them.
-
-Evidence that you aren't full of hot air.
-
+-->
 
 # Introduction
+
 
 Hi good morning, thank you for coming to ddd abd this talk at too early oclock on a saturday.
 My name is Derek Graham and I am a principal developer at Sage
 
+<!-- Name the enemy - name the thing that's getting in the way of happiness -->
 How many agile developers do we have in the room?
 
 One of the big outward differences between "traditional" and agile projects is the use of what 
@@ -48,6 +45,8 @@ I'm a developer working in an agile team and I should be drawing and communicati
 What I'd like to share with you today is what I think of as the gateway drug, sketchnoting, and 
 show your some techniques you can use in the rest of your sessions at DDD and I hope you'll be 
 inspired to try using them in your personal and professional lives. 
+
+<!-- Why now ? - will it get worse? -->
 
 # Mary
 
@@ -76,6 +75,10 @@ In the book Mike defined sketchnotes like this:
 “...rich visual notes created from a mix of handwriting, drawings, hand-drawn typography, 
 shapes and visual elements like arrows, boxes and lines.”
 
+
+<!-- Show the promised land before explaining how you'll get there -->
+
+<!--
 #Meanwhile
 
 Austin Kleon
@@ -95,7 +98,10 @@ Rachel Smith
 Jeannel King
 biggest of information radiators
 
+Rachel Smith - lets group see their work, see connections, big picture and trends (information radiator)
+
 and on back into history - cave paintings and leonardo.
+-->
 
 # Examples
 Rohde - pictures
@@ -103,32 +109,79 @@ Rachel Smith
 Eva-Lotta Lamm
 Carolyn sewell
 Guilia Forsyth 
+Jenn Wicks
 
-# Why
+
+What I like about each one...
+
+
 Knowledge Workers - Peter Drucker
 Computers - Tom Gauld
 Improve Learning
 
-# Magic and Mentalism
-Memory champions - Sherlock
-Memorise names, packs of Cards, 
-Ancient Greece - memory palaces
+#Why?
 
-# Science
-Dual Coding Theory - Alan Paivio
+Sketchnoting, where you are not trying to capture every word but trying to see the big picture 
+(no pun intended) helps you get a higher-level conceptual understanding and integration of ideas, is 
+particularly suited to long-term recall (Kiewra & Fletcher 1984)
+
+In ancient greek mythology there are examples of stunning feats of memory and writers compiled 
+techniques for remembering things. Have you seen Benedict Cumberbatch in Sherlock Holmes where 
+he uses the memory palace technique? He puts things he wants to remember in order around a physical 
+place that is well known to him. He can then recall facts by walking in his memory through this 
+memory palace and examining each of the items he has deposited. Today if you ask a magician or 
+mentalist or a memory athlete how they remember so much stuff, they will tell you they use a few 
+techniques which rely on making powerful associations between the thing they want to remember (hard) 
+a deck of cards in order and something easy like a story. One technique goes that you associate the face 
+and the value of a playing card with an icon - the 10 of hearts is a goose, the king of diamonds is 
+Albert Einstein - and you tell yourself the story of Einstein chasing the goose (which is a much better 
+thing for your mind to remember) to recall the order of the cards. 
+
+Science seems to be on our side in this, Mueller and Oppenheimer 2014 - Study longhand is better than keyboard,
+did a study on the recall and understanding of students when handwriting notes instead of using the keyboard. 
+Aside from the obvious distractions of facebook and twitter, email, IM etc, writing by hand seems to form 
+better links between what you are writing and the memory.
+
+Williams & Eggert 2002 - found that the most effective way of taking notes is with overall framework 
+and embellished with critical specifics. 
+
+In How Learning works in 2010 Ambrose, Bridges, DiPietro et Al looked at the differences between how 
+novices and experts form connections and found that experts often learn faster because they have a 
+better understanding of the big picture and can put new facts into perspective more easily with known data.
+
+Dreyfuss Model?
+
+Dual Coding Theory - Alan Paivio proposed the idea that hearing the word apple, a person can write the word and 
+also draw a picture of the physical object. Doing this meant that person was more than twice as likely to 
+recall information when asked about the apple later. It seems that the word and the icon are stored separately 
+but linked and either can be used to recall the memory.
+
 John Medina
 Note taking reference
 
 Learning Quote
 
-it's active listening, not about the drawing
-putting down wht you hear onto paper
+It's all about active listening, not about winning a drawing competition, putting down what you hear onto paper.
+
 hear writing, not understood. If you put it through another medium you have to 
 engage other centres of the brain to make sense of the information.
+
 Any body had a proof reading thing? Rubber Ducking
 
 Brain Rules - Medina
 
+Emotion runs deep and draws firm neurological paths in the brain that help you recreate the memory. Memories are recreated, not stored and retrieved.
+
+
+
+Laurens Bonnema
+
+
+# DDD North 2014
+
+In 2014 when DDD was in Leeds, I was at this conference and live sketchnoting for the first time. I did three sketchnotes from three talks,
+Eve Baraba, Joel Hammond-Turner and Richard Dalton. I can still remember what those talks were about without referring to my notes 
+just because of the sketchnoting process and that's not something I can say for most other talks I have been to before this.
 
 #Fun
 
@@ -181,6 +234,7 @@ Even more lofi - brown paper bags and biros - Mauro on twitter a few months back
 tweets using the the least swankified technology possible to demonstrate that you don't need good kit 
 to produce a useful artefact.
 
+<!-- Identify obstacles and explain how to overcome them. -->
 
 # But I can't Draw
 
@@ -351,11 +405,7 @@ It's fun!
 
 				
 #Encoding & Memory
-					
-Sunni Brown
-Good Enough
-Eva-Lotta Lamm
-Doug Neill
+	
 
 
 Brain Rules
@@ -381,10 +431,10 @@ Icons
 
 
 
-Fonts
+# Fonts
 
 				
-#Unit Test
+# Unit Test
 
 	Good to test our code. Test of a good sketchnote is that you can reconstruct the highlights
 	of the talk from your SN, to be able to recall the most important parts for you.
@@ -457,9 +507,19 @@ My Contribution - In Reverse
 	I can't look at screen and type (without glasses) and look at paper with glasses. 
 	Tried out idea that if our unit tests work, we should be able to
 		  					
-				
+
+
+
+
+
+<!-- Evidence that you aren't full of hot air. -->		
+
+----
+
 #Warning - Vanity Slides Ahead (#b5533c) autoslide
-		 		
+		
+----
+ 		
 #Some Cool things that have happened to me this year...
 				
 1. Did SN of first FooCafe talk by Dan North
@@ -504,57 +564,18 @@ Two best will get a copy of the SNW at the end of the day.
 
 #Finally
 
-Questions and Bug Reports
+# Questions 
+Not given this talk very much so there are bugs in it. If you find one please
+let me know.
 	
-Photo Credits
+# Photo Credits
 
------------------------------------------
+Atlassian - Jeff Patton 
 
-
-DB
-
-# What?
-
-Mike Rohde in 2006 defined them as:
-
-Roots go back a bit further:
-
-Visual Recording and Facilitation 1970's
-Rachel Smith - lets group see their work, see connections, big picture and trends (information radiator)
+# References
 
 
-Leonardo in the 1950's
 
-Visual Thinking
-
-Ideas not art
-
-Dave Gray
-"Your drawing doesnt have to be that good. Your mind will fill it in."
-
-#Examples
-
-Mike Rohde
-Jenn Wicks
-Rachel Smith
-
-#Why?
-
-Mueller and Oppenheimer 2014 - Study longhand is better than keyboard
-
-Forces you to focus on the big picture (no pun) conceptual understanding,
-integration of ideas, long-term recall
-Kiewra & Fletcher 1984
-
-Most effective way of taking notes is with overall framework and embellished with 
-critical specifics. 
-Williams & Eggert 2002
-
-
-Differences between novice and expert are connections
-How Learning works 2010 Ambrose, Bridges, DiPietro et Al
-
-Dreyfuss Model
 
 # How
 Call on Internal library of images developed over time

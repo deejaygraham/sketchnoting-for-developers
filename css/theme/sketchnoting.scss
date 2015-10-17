@@ -32,8 +32,8 @@ $linkColor: #6E737F;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.5em;
-$heading2Size: 1.6em;
+$heading1Size: 5.0em; /*2.5em;*/
+$heading2Size: 2.5em; /*1.6em;*/
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
@@ -47,21 +47,29 @@ section.has-dark-background {
   position: absolute;
   bottom: 1em;
   left: 1em;
-  font-size: 0.5em;
+  z-index: 999;
+  font-size: 1em; /* 0.5em; */
   color: #FF2B78;
 }
 
 // need background color
 
-.reveal .slides .shocking-highlight {
+.reveal .slides .vivid {
 	color: #FF2B78;
 }
 
-.reveal .slides .highlight {
+.reveal .slides .light {
 	color: #FFFFFF;
 }
 
-			
+.reveal .slides .fade {
+	color: #6E737F;
+}
+
+.reveal .slides .dark {
+	color: #3D424F;
+}
+      
 // Theme template ------------------------------
 @import "theme";
 // ---------------------------------------------
@@ -70,12 +78,13 @@ section.has-dark-background {
 	box-shadow: none;
 }
 
-.reveal .footer {
-  position: absolute;
-  bottom: 1em;
-  left: 1em;
-  font-size: 0.5em;
-}
+//
+//.reveal .footer {
+//  position: absolute;
+//  bottom: 1em;
+//  left: 1em;
+//  font-size: 0.5em;
+//}
 
 // ameep pink #FF2B78 highlight
 //		dk grey #3D424F emph
