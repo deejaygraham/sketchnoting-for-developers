@@ -34,6 +34,8 @@ value of communication and the idea of "Individuals and interactions over proces
 And yet as a culture, little children are not self-concious when they draw, but as we grow up 
 and get more "serious" and "professional" we gradually get the feeling that it's not the done thing.
 
+All children are artists. The problem is how to remain an artist once he grows up. - Picasso.
+
 Thankfully concepts like Visual Thinking and problem solving and Visual Notetaking are starting 
 to be picked up and adopted by the agile community in all kinds of ways. This adoption is based 
 purely on the effectiveness of these techniques for communication and learning.
@@ -162,66 +164,91 @@ Wall
 Rachel Smith - Visual Recording
 
  
-#My Equipment
+# My Equipment
 
+I am totally analogue in my approach. I use a Moleskine notebook which I carry with 
+me everywhere - not for the name but because the paper is nice and thick and I've found it to 
+be one of the best at not letting the ink bleed through the page so you can write on both sides.
+ 
 Pic of pens and book
-Moleskine medium heavy paper - photo pens and pencils
-*Secret is in this picture* - ask about it later
+
+I can get by with the pen in the middle which is a good general purpose one but I also have a thicker 
+pen for filling in large areas of black more easily. I have an orange-red for highlighting and a light 
+grey for adding shadows. There's also a *Secret is in this picture* - ask about it later
 Plain or grid paper is best					
 			
-Even more lofi - brown paper bags.
+Even more lofi - brown paper bags and biros - Mauro on twitter a few months back did a whole series of 
+tweets using the the least swankified technology possible to demonstrate that you don't need good kit 
+to produce a useful artefact.
 
 
-#But I can't Draw
-<h3>It's about<h3>
-<h1>communication</h1>
-<h2>not art</h2>
+# But I can't Draw
 
 Pic of retro advert...
 
-I've seen most of your notes and you are right
-You aren't good enough to compare against Michael Angelo
+This is a frequent objection to starting to draw anything.
 
-Some from professional illustrators are super pretty
-Mike - pro designer - give up
+Now ever since I had my talk accepted by DDD I've been monitoring some of you in this room and 
+yes, you're quite right, you can't draw.
 
-But maybe you could compare against a rubbish artist like Pablo Picasso
+Well, you can't draw like MichaelAngelo with God and Adam reaching out to touch each other's 
+fingers. It took him almost 40 years to finish the Sistine chapel. I hope no talk you ever attend 
+has to last that long.
+
+If you google sketchnotes you will see some posted by professional illustrators that are super pretty.
+I often see Mike Rohde (the pro designer) and think I want to give up.
+
+So maybe we can't draw like Michael Angelo and we can't draw like Mike Rohde.
+
+But maybe you could compare against a rubbish artist like Pablo Picasso.
+
 Owl,
 Bull,
 Dog
 
-Picasso see against feel quote
-Picasso Pics
+Painting is a blind man's profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen. - Picasso.
+
+It's really just lines and curves and circles and stuff put together, isn't it?
+
+Maybe you could compare yourself against Dave Gray, noted Visual Thinker and inspiration for Mike Rohde's work.
 
 ./images/dave-gray-mann-gruber.jpg
 
-Here are some examples from cartoons from the guardian.
-Tom Gauld - simple figures - convey meaning in posture and outline
-no faces or hands, feet
+How about some cartoonists who work for a national newspaper? I've chosen the guardian in this case:
 
-./images/josie-long-another-planet.jpg
-
-Tom Gauld
+Tom Gauld - simple figures - convey meaning in posture and outline more than in faces or hands, feet. Pictures, 
+icons and text are very sketchnote like, one of my favourite illustrators and had a big impact on how I try 
+to draw figures.
 ./images/tom-gauld-sketchbook-1.jpg
-				
-./images/xkcd-whatif-tie-coin-toss.png
 
-Modern toss
+Josie Long - her series of cartoons on how she would change the world, very simple figures, faces, text.
+./images/josie-long-another-planet.jpg
 
 Stephen Collins
 
-- Cave Painting
+Modern toss
 
-Jeannel King
+Modern toss are super sweary but get their ideas across very quickly with very simple, scrappy pictures, very 
+few lines and few words.
 
-It's about communication and ideas not about the art
+./images/xkcd-whatif-tie-coin-toss.png
 
-If you can write your own name and make these marks
-dot, line, arrow, circle, square, triangle
+Clearly these examples show that
+
+It's about
+communication
+not art
+				
+Jeannel King a graphic recorder has written an ebook you can get online around this whole thing 
+- how to draw things that are "good enough" in an easy way.
+
+If you can write your own name and make these marks with a burnt stick:
+dot, line, arrow, circle, square, triangle you can sketchnote.
 <!-- If you can't do any of these come talk to me later -->
 
-Composition
-Use these shapes to build other shapes					
+# Composition
+
+Obviously we use these shapes to build other shapes					
 At it's most basic, it's writing and using boxes and lines 
 to establish a visual hierarchy - what's important and what's less important.					
 
@@ -686,10 +713,13 @@ Project Planning
 Reading Summaries
 Giving Presentations
 
+
 #Resources 
 
-Mike Rohde
-Sunni Brown
+Mike Rohde books
+Sunni Brown book
+Austin Kleon
+
 
 
 
@@ -777,83 +807,32 @@ Giulia Forsyth
  
  Add highlights, details, accents, 
  
- 
- #References
- 
- DUAL CODING THEORY AND EDUCATION - Allan Paivio - University of Western Ontario, Pathways to Literacy Achievement
-for High Poverty Children, 2006
+ Simple Sketches for Diagramming your Software Architecture - Simon Brown - abandoning UML.
+http://www.methodsandtools.com/archive/softwarearchitecturesketches.php
 
-RESEARCH ON STUDENT NOTETAKING: IMPLICATIONS FOR FACULTY
-AND GRADUATE STUDENT INSTRUCTORS Deborah DeZure, Matthew Kaplan, Martha A. Deerman
-
-The Pen Is Mightier Than the Keyboard
-Advantages of Longhand Over Laptop Note Taking
-Pam A. Mueller
-Daniel M. Oppenheimer - 2014
 
 handwritten notes not typed ones
 
 http://www.psychologicalscience.org/index.php/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html
 
-How Learning Works - Seven Research-Based Principles for Smart Teaching
-Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman - Wiley 2010
 
-Simple Sketches for Diagramming your Software Architecture - Simon Brown - abandoning UML.
-http://www.methodsandtools.com/archive/softwarearchitecturesketches.php
+ 
+# References
+ 
+Dual Coding Theory and Education - Paivio - University of Western Ontario, Pathways to Literacy Achievement for High Poverty Children, 2006
 
-http://blog.sqisland.com/2015/03/sketchnoting-an-engineers-approach.html
+Research On Student Notetaking: Implications for Faculty and Graduate Student Instructors - DeZure, Kaplan, Deerman
 
+The Pen Is Mightier Than the Keyboard : Advantages of Longhand Over Laptop Note Taking - Mueller & Oppenheimer - 2014
 
-TIPS AND TRUISMS: LISTENING FOR GRAPHIC RECORDING OR VISUAL NOTE-TAKING
-hard-to-listen_blog
-
-When asked by VizThink University to describe what I know about the act of listening, I didn’t consciously know what I knew. I knew that I had achieved a certain level of expertise, but much of that was a competency I had never articulated. So after pouring my listening experiences onto paper, I came up with six truisms and 18 tips for people who want to improve their skills in this area for the purposes of graphic recording, visual note-taking, and life in general. And to be momentarily sentimental, I realized that the most important thing about listening is encompassed by this quote:
-
-Being heard is so close to being loved that for the average person they are almost indistinguishable.
-
-That is the most beautiful thing I could muster for this piece. And I didn’t technically muster it, so thank you, David Augsberger. My contribution to humanity is in the truisms and tips. Please, read on…
+How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambrose, Bridges, DiPietro, Lovett, Norman - Wiley 2010
 
 
-LISTENING TRUISMS for TAKING VISUAL NOTES or GRAPHIC RECORDING:
+# Use you active listening
 
-1. In all probability, humans will never write as fast as we talk. (Yes, I’m aware of stenographers but they’re using shorthand, and only an elite few can read it.) Unless we develop a mutant gene for rapid writing, normal people have a limited bandwidth of information storage relative to release, so it’s important that we have techniques at our disposal to compensate for the fact that we can’t scribe as quickly as we speak.
-
-2. Listening is not an automatic pilot. It is a conscious decision that you make. I don’t go around in listening mode all the time. Ask my friends and family. Many of them would be surprised that I’m such an excellent listener because I’m also excellent at blocking them out. Ha! But it’s the same with any expertise. People who are masters of NeuroLinguistic Programming (NLP) don’t take one look at you and know where your weaknesses are. They have to make the conscious decision to focus on and evaluate your body language, eye movements, and whatever other non-verbal clues give away how nuts you are.
-
-3. Listening is like any other exercise – you have to develop “muscles”. And even when you’re really muscular, you still have to warm-up. Most of us don’t immediately go into listening mode unless there’s a situation that warrants it – like when you have a friend in need or when someone is going on and on about how great you are. So at the onset of a listening session, there is often a natural, gradual transition during which our inner voice grows quiet. That’s why at the very beginning of a graphic recording or visual note-taking session, my listening is “cool” and it heats up as I move into a flow state.
-
-4. Listening requires being OPEN, so emotions cloud pure listening. If we really want to hear someone, we can’t critique, judge, make counter arguments, pick apart, formulate questions or challenges, be overly emotional, or otherwise interrupt with our own thoughts. If we do that, it is certain that we’re not truly listening. Think of people who have been in long-term relationships. The historical context and related emotions literally block both parties from hearing the others’ needs. Unless the couple is…well…awesome.
-
-5. If you listen without diluting the experience with your own emotional responses, you LEARN more:
-
-You have the ability to really evaluate the content because you have absorbed the material better than many other participants who are there acting as content blockers.
-You also have the ability to offer a thoughtful, well-rounded perspective, because you have truly become a vessel for what people are offering. This doesn’t mean you believe everything someone says. It simply means that you are in a better position to respond credibly.
-6. It is worth it to learn to listen.
-
-It increases the quality of your questions.
-It increases your comprehension of a subject.
-You pick up on information that others completely miss. Example: During the Patty Hearst kidnapping, the FBI didn’t use seeing people to listen to the audio tapes released by the SLA – they used blind people. Because blind people have a sense of hearing that is significantly more developed, for obvious reasons. This is why I recommend closing your eyes when you start to practice listening. It forces you to build that muscle.
-You increase the likelihood that you’ll remember content because you were taking it in without interrupting with your thoughts.
-You can show someone that you care about and love them by the simple act of hearing what they say, without judgment.
-LISTENING TIPS:
-
-TIP #1: Recognize that listening requires practice and don’t expect that all of the skills happen overnight. Take comfort in the fact that much of interpreting information through hearing is innate and doesn’t have to be learned – it just has to be exercised.
-
-TIP #2: If you’re going to practice listening, start by practicing with your eyes closed. Practitioners of Active Listening recommend that you carefully watch body language, but I actually recommend not going there until you have a level of comfort with your listening skills. Scrutinizing someone’s physical posture and appearance makes it more likely that you will have an emotional response to them, which will in turn cloud your listening. When your eyes are closed, you momentarily close off variables that may otherwise impact your listening.
-
-TIP #3: In the beginning, practice listening to someone you WANT to hear. This seems obvious, but we have to realize that it’s essential to quiet our skeptical voice. Listening to someone we enjoy allows us to hone the listening skill so we can apply it later to people who are important, but who we may not want to listen to. Like a mother-in-law or every boss in the world. I was delighted to hear Nate Silver, so it was a joy to create the sample below.
-
-sxsw-nate-silver2
-
-
-TIP #4: Before you start to listen in a real setting, give yourself some context. If you are oriented even slightly to the topic and have a handle on the jargon or the acronyms, it will decrease the probability that you’ll get stuck on and focus on what you DIDN’T understand.
-
-
-
-
-TIP #5: STOP EVERYTHING YOU’RE THINKING and listen. Suspend your own frame of reference. Focus externally. Turn off your ego. Quit thinking everything revolves around your opinion. Give the stage in your head to someone else! (I know what you’re thinking, but just do as I say and not as I do. Joke! I have mastered this skill but I was the most unlikely candidate, so take comfort. Anyone can do this if s/he wants to.)
-
-
+Listen to what the speaker is saying, not what you think they are saying and without judgement. Ego. Listening gets better the more you 
+practice it. Listening means you are thinking more about 
+the subject and more likely to have questions at the end. 
 
 # Listen to the presenter's early remarks
 
@@ -909,5 +888,3 @@ Anyone reading the abstract for this talk will have noticed I mentioned in it th
 was mostly a troll for Richard Dalton who is giving a talk on F# somewhere else in the building at the moment. But it really 
 is true. This hand-written DSL you are developing does not involve a keyboard - therefore it's "untyped" and it is really 
 only required to parse or compile on a single machine - your brain. (works on my machine).
-
-
