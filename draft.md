@@ -29,6 +29,17 @@ Thankfully concepts like Visual Thinking and problem solving and Visual Notetaki
 to be picked up and adopted by the agile community in all kinds of ways. This adoption is based 
 purely on the effectiveness of these techniques for communication and learning.
 
+Atlassian (the australians who make the Jira tool) are one example of a company who get everyone involved 
+in the conversation about how the software should look, behave, the priorities for work, and all 
+the work is made visible on the walls. Use it for brainstorming, working out problems from user 
+stories. Best Idea not the best artist.
+
+I have to thank Jeff Patton who consults for Atlassian for letting me use these slides.
+ 
+It's caught on to such a degree, Sketchnoters are being hired to work at conferences capturing talks
+and delegates (Corinna Baldauf for instance and Claudia Sandoval put together a little ebook of 
+sketchnotes following the Agile 2015 conference)
+
 What little we know about how the brain works and how we store and process information mean 
 that this is a growing field of study and will be increasingly important in the future.
 
@@ -118,11 +129,11 @@ Computers - Tom Gauld
 
 #Why?
 
-Sketchnoting, where you are not trying to capture every word but trying to see the big picture 
-(no pun intended) helps you get a higher-level conceptual understanding and integration of ideas, is 
-particularly suited to long-term recall (Kiewra & Fletcher 1984)
+Sketchnoting, Making notes more memorable, it's where you are not trying to capture every word but trying 
+to see the big picture (no pun intended) helps you get a higher-level conceptual understanding and 
+integration of ideas, is particularly suited to long-term recall (Kiewra & Fletcher 1984)
 
-In ancient greek mythology there are examples of stunning feats of memory and writers compiled 
+In ancient greek stories there are examples of stunning feats of memory and writers compiled 
 techniques for remembering things. Have you seen Benedict Cumberbatch in Sherlock Holmes where 
 he uses the memory palace technique? He puts things he wants to remember in order around a physical 
 place that is well known to him. He can then recall facts by walking in his memory through this 
@@ -146,6 +157,11 @@ In How Learning works in 2010 Ambrose, Bridges, DiPietro et Al looked at the dif
 novices and experts form connections and found that experts often learn faster because they have a 
 better understanding of the big picture and can put new facts into perspective more easily with known data.
 
+Ainsworth Prain Tytler 2011
+"Use of drawing caters to individual learner differences,
+as a drawing is shaped by the learners current or emerging ideas
+and knowledge..."
+
 Dreyfuss Model?
 
 Dual Coding Theory - Alan Paivio proposed the idea that hearing the word apple, a person can write the word and 
@@ -163,7 +179,9 @@ Had to sneak a quote from Deming in somewhere
 &ldquo;People learn in different ways: reading, listening, pictures, watching. 
 W. Edwards Deming, the New Economics
 
-It's all about active listening, not about winning a drawing competition, putting down what you hear onto paper.
+It's all about active listening, not about winning a drawing competition, putting down what you hear onto paper. Force you to 
+invent a visual languageto expand on traditional notes. It's a more deliberate & slower way of taking notes that engages 
+active listening, meaning you will understand better, recall more and be able to communicate the information you consume.
 
 I have three children and all three have gone through the same experience. They have an essay to write. When it comes to 
 checking it before submission they have all been too embarrassed to read it aloud to check for errors. So simple spelling mistakes, 
@@ -186,7 +204,7 @@ Evolutionarily, threats to our survival came to us first visually in the shape o
 Words are only postage stamps delivering the object for you to unwrap - george bernard shaw
 
 Brain Rules
-Senses designed to work together - sow when combined in a learning environment,
+Senses designed to work together - so when combined in a learning environment,
 images and text say, the brain pays more attention and encodes the memory
 more robustly.
 *Smell is especially important* - Look for mor examples
@@ -211,8 +229,10 @@ that you have taken the time to engage so deeply with their talk.
 Mike Rohde, Sketchnote Army,
 Mauro Tosselli, sketchnoters in general, kind and generous of their time.
 
-#Why Not
-Short term recall
+#Why Not?
+Short term factual recall - recording complete notes (meeting minutes) is more important 
+than taking the notes - Williams and Eggert 2002
+
 
 # My Equipment
 
@@ -230,6 +250,11 @@ Plain or grid paper is best
 Even more lofi - brown paper bags and biros - Mauro on twitter a few months back did a whole series of 
 tweets using the the least swankified technology possible to demonstrate that you don't need good kit 
 to produce a useful artefact.
+
+Personal choice whether to use iPad, tablet or paper and pen. It should be something that the interface 
+doesn't stop you getting the work done. I see it a bit like the debate over vim vs emacs or eclipse vs visual studio. 
+Use what's natural and fastest for you. Do what works for you to the point where the tool disappears it 
+should not be in the way.
 
 <!-- Identify obstacles and explain how to overcome them. -->
 
@@ -298,10 +323,13 @@ Jeannel King a graphic recorder has written an ebook you can get online around t
 --------------------------------------------------------------------------------------------------
 
 
+
 # Basics
 If you can write your own name and make these marks with a burnt stick:
 dot, line, arrow, circle, square, triangle you can sketchnote.
 <!-- If you can't do any of these come talk to me later -->
+
+
 
 # Composition
 
@@ -309,16 +337,77 @@ Obviously we use these shapes to build other shapes
 
 Picasso pic - built from simple lines				
 
+
+Icons
+Label box with shadow
+Clouds - Investigate?
+Splat with Exclamation - challenge
+Sequence Number in circle
+Quotations
+Flags
+
+# Visual Alphabet
+
+
+ Sunni Brown - dots, lines, spirals, waves, rectangles, circles, triangles
+ 
+ #Symbols
+ 
+ compose alphabet into your own DSL
+ 
+ # Bullets for lists
+ 
+ # Speech Bubbles
+ 
+ # Arrows
+ 
+ to link 
+ 
+ # Dividers
+ 
+ separators
+ 
+Lines and Arrows separate and connect
+dotted lines, arrows, big arrows, 
+headings 
+
+ # Typography
+ 
+ Sean Wes examples
+ 
+ handwriting
+ block letters
+ Shadow
+ Outline
+ 
+ # People
+ 
+Stick Figures - posture
+Star people
+Dave Gray people
+
+ #Emotions
+ Austin Kleon faces in boxes
+ 
+ Colours
+ 
 # Elements
 
 # Text and Typography
 
-A big part of sketchnoting is making your writing look nice. 
+A big part of sketchnoting is making your writing look nice. Using it to show relative importance
+according to text size, placement and font - bold block capitals, script, lower case?
 
 Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
 Write like you are drawing - more appreciation for typography.
 
 Practice several types of well type - block capitals, lower case, script, 3d when you get more ambitious.
+
+lowercase most often
+ALL CAPS
+and double all caps
+Script (not often)
+
 
 # Type Errors 
 
@@ -327,12 +416,39 @@ a tip to correct type errors. Use double lines or fill in parts of a character t
 out letter height and sometimes correct spelling. 
 
 
+# Hierarchy
+Create a hierarchy using size and separation
+
+
+use numbers for ordering
 
 # Layouts
 straight, columns, top down is easy
 , meander, spider web, jazz
 
 examples of layouts
+
+#Structures
+
+Radial
+Columns
+Modular
+Path-Meander
+Jazz
+
+# Secret Weapon
+
+If you aren't confident about judging where parts of your composition should go or not very 
+good at spacing stuff out, get yourself a blue pencil (as seen in the photo) it gives you 
+just enough to see what you are doing but doesn't show up well against black ink and doesn't show 
+up very well on photographs. I got that tip from a comic artist who uses a blue pencil all the time 
+to mock out where figures are going to be. When the final art work is scanned, the blue is so feint 
+it doesn't show up - particularly in b&W
+
+
+Grids, tables - the 5 things I know about GitHub
+Big Idea with lots of bits around the outside (mindmap like)
+Journey/stories/steps 1...2..3.
 
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -346,12 +462,26 @@ Find out what the title is, and the speaker and fill those in first. Off to a go
 Listen to the first few remarks and try to judge what kind of layout you should use - is this 
 10 things I hate about..., is it a meandering recollection of past events...?
 
+Remember that this is a plan and if it doesn't match the reality of the talk, that's ok.
+
+ #Structure
+ 
+ title, twitter name, pic?
+ 
+ based on talk 
+ 
+ get key topics down - not too much
+ 
+ Add highlights, details, accents, 
+ 
 Pay attention, don't allow yourself to drift off.
 
 Follow the speaker
 body language, voice - not the slides - they are available online after talk
 
 Don't boil the ocean
+
+Listen for quotes - pull quotations
 
 If you only had 10 tweets to describe this talk, what would you use 
 them to tweet about ? 
@@ -387,6 +517,44 @@ to establish a visual hierarchy - what's important and what's less important.
 
 Filter and focus on what's important'
 
+Listen for things that mean someting to you.
+
+Tweets
+
+Embrace mistakes
+Block out
+Have a couple of fonts at your disposal
+
+Whitespace is good.
+
+# Use you active listening
+
+Listen to what the speaker is saying, not what you think they are saying and without judgement. Ego. Listening gets better the more you 
+practice it. Listening means you are thinking more about 
+the subject and more likely to have questions at the end. 
+
+# Listen to the presenter's early remarks
+
+They will often list the topics they are going to talk about and this will give you an opportunity to plan how to 
+lay out content on the page. 10 things I hate about javascript might give you an idea to use two rows of 5 columns, one
+box for each of the 10 things.
+
+# Use your Cache
+
+If the speaker is listing important things too quickly, try writing just the first word or part of a word for each item 
+then come back and fill in when you have a chance.
+
+# Listen for metaphors and similies
+
+Often speakers will suggest a visual to you with their language but also be open to the possiblitiy of possible misunderstanding. 
+Often taking what the speaker says literally or intentionally misunderstanding can lead to ideas for visuals that make the 
+original idea more entertaining to you and therefore more likely to form a strong association in your memory.
+
+
+# Keep in mind how you learn
+
+Do you prefer more words and fewer pictures or more pictures with just a few key words sprinkled about? 
+
 
 # Keep it simple
 
@@ -415,14 +583,36 @@ is true. This hand-written DSL you are developing does not involve a keyboard - 
 only required to parse or compile on a single machine - your brain. (works on my machine).
 
 
+use colour to draw attention to things - not everywhere
+
+
 # Embrace your mistakes
 
 Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
 mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
 you have done wrong will stop you capturing anything else the speaker has to say.
 
+Cover them up
+or repeat them - first rule of improv. repeat and make it look like you 
+intended it.
+Use patterns to scratch them out if required
+
+Examples of mistakes
+
+
+# Review
+
+Towards the end of the talk, check whether you have captured the right things. Are the main points visible, 
+do they stand out? If not maybe make them more visible with spot colours, boxes or banners, numbers
+
+Is the flow of the talk clear? Can you do anything else to enhance the hierarchy and connect ideas together 
+that were not obvious at the time.
+
+Quotes? Put in speech bubbles or quotation marks.
+
 Practice improves
 Confreaks, youtube - no pressure way to practice - press pause
+
 
 # Unit Test
 
@@ -457,6 +647,10 @@ My live sn was at ddd north 14 and had some lovely conversations with the presen
 Corey Lattislaw - usually photographs at end but gets the award for most high-tech solution for using Google Glass to 
 record her sketchnotes live and then share the still images and short vine-like videos on G+.
 
+
+
+
+ 
 # Using 
 
 Is it just for talks? Other uses - one technique to get you started.
@@ -477,6 +671,8 @@ Angel M
 Corinna Balduf
 Sam and Karen in SA - talk to them?
 
+Veronica Erb - uses SNs in her UX work and to help engagement with her clients
+
 Agile adoption
 Corinna Baldauf  at agile 2015
 Claudia Sandoval
@@ -484,14 +680,27 @@ Renee Troughton
 Tim Meyers
 Elizabeth McClellan
 
+Unit Summaries
+Project Planning
+Reading Summaries
+Giving Presentations
 
-Simon Brown - interesting work in simplifying architecture diagrams #NoUML 
+Understanding your own learning
 
-Education - Derek Bruff - sketchnotes as part of teaching
+Muda
+Lean - Kanban dan brown
+
+interesting work in simplifying architecture diagrams
+Simple Sketches for Diagramming your Software Architecture - Simon Brown - abandoning UML.
+http://www.methodsandtools.com/archive/softwarearchitecturesketches.php
+
+Education - Derek Bruff - sketchnotes as part of teaching, Doug Neill
 Vanessa Ralph - Kickstarter - Chemistry textbook (image)
 
 Julie Stitt banned notes in class for her teaching and saw improvements in engagement.
 	
+Sasha Chua
+
 # Personal Study
 I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
 Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
@@ -522,7 +731,9 @@ more times for other talks and sometimes to help me plan a talk.
 #Warning - Vanity Slides Ahead (#b5533c) autoslide
 		
 ----
- 		
+ 	
+	 Infamy infamy they've all got it infamy
+	 	
 #Some Cool things that have happened to me this year...
 				
 1. I did a SN of the first meeting of Michael Tiberg's FooCafe, where Dan North talked about deliberate practice.
@@ -557,7 +768,7 @@ techniques you like. I often find that I find one thing I like and make a note
 to nick it, rather than the whole thing.
 
 Sketchnote army
-icon website
+The noun project
 		
 ----
 	
@@ -581,7 +792,7 @@ and I'll pick someone else.
 
 #Finally
 
-That's the end...
+I'll stop there. The rest of the conference is coming along soon and I should be drawing...
 
 # Questions 
 
@@ -598,6 +809,10 @@ Atlassian - Jeff Patton
  
 SketchNote Handbook - Mike Rohde
 
+Sunni Brown book
+
+Austin Kleon
+
 Brain Rules - John Medina
 
 Dual Coding Theory and Education - Paivio - University of Western Ontario, Pathways to Literacy Achievement for High Poverty Children, 2006
@@ -609,15 +824,6 @@ The Pen Is Mightier Than the Keyboard : Advantages of Longhand Over Laptop Note 
 How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambrose, Bridges, DiPietro, Lovett, Norman - Wiley 2010
 
 -----------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-# How
-Call on Internal library of images developed over time
-that are quick and ready to go
 
 practice pulling out key points from a speaker
 
@@ -635,274 +841,8 @@ what you are learning to what you already know.
 Find myself asking more questions at conferences - 
 
 
-#Structures
-
-Radial
-Columns
-Modular
-Path-Meander
-Jazz
-
-#Retention
-Dual Coding 
-Van Meter & Garner 2005
-
-Ainsworth Prain Tytler 2011
-"Use of drawing caters to individual learner differences,
-as a drawing is shaped by the learners current or emerging ideas
-and knowledge..."
-
-(Picasso quote about what you see)
-
-#Why Not?
-Short term factual recall - recording complete notes (meeting minutes) is more important 
-than takeing the notes - Williams and Eggert 2002
-
-#But I Can't Draw
-
-5 basic elements go together to make up all drawings
-composition
-
 learned skill, cool to share but no one really needs to understand
 What you are creating here is a programming language for your own memory
 that's why it's so much better than F# ...
 you are creating symbols that mean something to you that literally
 compile only on your virtual machine
-(works on my machine)
-and because it's hand drawn and no keyboard is involved, it's 
-the ultimately untyped language !(groan)
-    
-
-Hand-drawn text 
-Boxes
-Flow
-
-Typography - Fonts
-Big, small, bold, different styles
-
-
-People
-Stick Figures - posture
-Star people
-Dave Gray people
-
-use numbers for ordering
-Pic of speaker
-
-Create a hierarchy using size and separation
-
-
-lowercase most often
-ALL CAPS
-and double all caps
-Script (not often)
-
-
-#Prep 
-Do title before it starts and pic of speaker if you can
-
-Save things that resonate with you or something to look up later
-
-Icons
-Label box with shadow
-Clouds - Investigate?
-Splat with Exclamation - challenge
-Sequence Number in circle
-Quotations
-Flags
-
-Lines and Arrows separate and connect
-dotted lines, arrows, big arrows, 
-headings 
-
-conceptual objects not literal
-repitition
-
-groups of people
-horses people and add details
-Drawing negative is difficult
-
-like mindmaps - iconic - mnemonics
-
-Learning style - is it good for everyone - Honey & Meldrum
-
-
-Grids, tables - the 5 things I know about GitHub
-Big Idea with lots of bits around the outside (mindmap like)
-Journey/stories/steps 1...2..3.
-
-use colour to draw attention to things - not everywhere
-
-No UML !!!!
-
-Ivar Jacobsen useless icons
-
-single page/multi page
-
-#Mistakes
-
-Cover them up
-or repeat them - first rule of improv. repeat and make it look like you 
-intended it.
-
-Examples of mistakes
-
-#Tools
-
-iPad
-
-Pen & Paper
-
-What I Use
-
-#Practice
-
-You Tube,
-Vimeo for practice
-
-Super Technical - Sasha Chua
-Doug Neill
-Chemistry Text book
-
-
-Making notes more memorable
-
-Unit Summaries
-Project Planning
-Reading Summaries
-Giving Presentations
-
-
-#Resources 
-
-Mike Rohde books
-Sunni Brown book
-Austin Kleon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Title
-
-#Drawing & Visual Thinking
-
-## We are Knowledge Workers
-
-Giulia Forsyth
-
-#Sketchnotes - What
-
-#
-
-# You will need
-
-# Paper and Pens
- 
-
-# Visual Alphabet
-
-
- Sunni Brown - dots, lines, spirals, waves, rectangles, circles, triangles
- 
- #Symbols
- 
- compose alphabet into your own DSL
- 
- # Bullets for lists
- 
- # Speech Bubbles
- 
- # Arrows
- 
- to link 
- 
- # Dividers
- 
- separators
- 
- # Typography
- 
- handwriting
- block letters
- Shadow
- Outline
- 
- # People
- 
- #Emotions
- Austin Kleon faces in boxes
- 
- 
- #Structure
- 
- title, twitter name, pic?
- 
- based on talk 
- 
- get key topics down - not too much
- 
- Add highlights, details, accents, 
- 
- Simple Sketches for Diagramming your Software Architecture - Simon Brown - abandoning UML.
-http://www.methodsandtools.com/archive/softwarearchitecturesketches.php
-
-
-handwritten notes not typed ones
-
-http://www.psychologicalscience.org/index.php/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html
-
-
-
-
-
-# Use you active listening
-
-Listen to what the speaker is saying, not what you think they are saying and without judgement. Ego. Listening gets better the more you 
-practice it. Listening means you are thinking more about 
-the subject and more likely to have questions at the end. 
-
-# Listen to the presenter's early remarks
-
-They will often list the topics they are going to talk about and this will give you an opportunity to plan how to 
-lay out content on the page. 10 things I hate about javascript might give you an idea to use two rows of 5 columns, one
-box for each of the 10 things.
-
-# Use your Cache
-
-If the speaker is listing important things too quickly, try writing just the first word or part of a word for each item 
-then come back and fill in when you have a chance.
-
-# Listen for metaphors and similies
-
-Often speakers will suggest a visual to you with their language but also be open to the possiblitiy of possible misunderstanding. 
-Often taking what the speaker says literally or intentionally misunderstanding can lead to ideas for visuals that make the 
-original idea more entertaining to you and therefore more likely to form a strong association in your memory.
-
-EXAMPLE
-
-
-
-# Keep in mind how you learn
-
-Do you prefer more words and fewer pictures or more pictures with just a few key words sprinkled about?
-
