@@ -402,42 +402,35 @@ Flags
 Lines and Arrows separate and connect
 dotted lines, arrows, big arrows, 
 headings 
-
- # Typography
  
- Sean Wes examples
- 
- handwriting
- block letters
- Shadow
- Outline
- 
- # People
+# People
  
 Stick Figures - posture
 Star people
 Dave Gray people
 
- #Emotions
- Austin Kleon faces in boxes
- 
- Colours
- 
-# Elements
+
+#Emotions
+Austin Kleon faces in boxes, strangley most of my figures show emotion through posture (I don't make them big 
+enough to make emotions worthwhile). I often add faces to inanimate objects to show working or broken status.
 
 # Text and Typography
 
-A big part of sketchnoting is making your writing look nice. Using it to show relative importance
-according to text size, placement and font - bold block capitals, script, lower case?
+Sean Wes examples
 
+A big part of sketchnoting is making your writing look better than normal (if you're anything like me). 
 Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
 Write like you are drawing - more appreciation for typography.
+
+Like in HTML coding, using text size and boldness, framing etc. to show relative importance
+according to text size, placement and font - bold block capitals, script, lower case?
 
 Practice several types of well type - block capitals, lower case, script, 3d when you get more ambitious.
 
 lowercase most often
 ALL CAPS
 and double all caps
+Shadow
 Script (not often)
 
 
@@ -449,25 +442,21 @@ out letter height and sometimes correct spelling.
 
 
 # Hierarchy
+
 Create a hierarchy using size and separation
-
-
 use numbers for ordering
 
+# Colour
 
-# Layouts
-straight, columns, top down is easy
-, meander, spider web, jazz
+Several opinions on colour. I think it works best in small doses to add emphasis, usually when i use too much colour 
+is when things start to get out of hand and it starts to look like a clown's nightmare.
+
+# Structures
+
+There are several common layouts - straight, columns, top down is easy, modular, meander, spider web (radial) , jazz
 
 examples of layouts
 
-#Structures
-
-Radial
-Columns
-Modular
-Path-Meander
-Jazz
 
 # Secret Weapon
 
@@ -483,16 +472,17 @@ it doesn't show up - particularly in b&W
 So let's talk about how to get started sketchnoting a presentation like the ones 
 we will be seeing today...
 
-Grids, tables - the 5 things I know about GitHub
-Big Idea with lots of bits around the outside (mindmap like)
-Journey/stories/steps 1...2..3.
-
 
 #Hello, World
 
-Find out what the title is, and the speaker and fill those in first. Off to a good start.
+So you're going to SN at talk, here's how to get started.
+
+Find out what the title is, and the speaker's name and fill those in first. Off to a good start.
 Listen to the first few remarks and try to judge what kind of layout you should use - is this 
 10 things I hate about..., is it a meandering recollection of past events...?
+Grids, tables - the 5 things I know about GitHub
+Big Idea with lots of bits around the outside (mindmap like)
+Journey/stories/steps 1...2..3.
 
 Remember that this is a plan and if it doesn't match the reality of the talk, that's ok.
 
@@ -606,16 +596,13 @@ Book for reference to look up
 Cloud for something to google
 
 Over time you'll become more comfortable with these icons and fluent in drawing them. They become your "Visual Language" 
-as sketchoting DSL if you will. They really are there to communicate with you personally so it's fine if they don't 
+as sketchoting DSL if you will, a programming language for your brain. They really are there to communicate with you personally so it's fine if they don't 
 match someone else's personal "language" but used consistently the context will communicate with others.
 
 Anyone reading the abstract for this talk will have noticed I mentioned in it that sketchnoting was better than F#. This 
 was mostly a troll for Richard Dalton who is giving a talk on F# somewhere else in the building at the moment. But it really 
 is true. This hand-written DSL you are developing does not involve a keyboard - therefore it's "untyped" and it is really 
-only required to parse or compile on a single machine - your brain. (works on my machine).
-
-
-use colour to draw attention to things - not everywhere
+only required to parse or compile on a single virtual machine - your brain. (works on my machine).
 
 
 # Embrace your mistakes
@@ -624,10 +611,8 @@ Don't worry about spelling or drawing mistakes. You can come back and fill in le
 mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
 you have done wrong will stop you capturing anything else the speaker has to say.
 
-Cover them up
-or repeat them - first rule of improv. repeat and make it look like you 
-intended it.
-Use patterns to scratch them out if required
+You can use patterns or fold the error into another design at the end. The other alternative is to repeat them - the first 
+rule of acting improv. is to repeat and make it look like you intended it.
 
 Examples of mistakes
 
@@ -642,9 +627,7 @@ that were not obvious at the time.
 
 Quotes? Put in speech bubbles or quotation marks.
 
-Practice improves
-Confreaks, youtube - no pressure way to practice - press pause
-
+If you want, use colour to draw attention to things - don't use everywhere
 
 # Unit Test
 
@@ -658,7 +641,10 @@ If you can do this, you get a green.
 	
 Opportunity to refactor if you come up red. Use it 
 as a learning tool for next time - Text is meaningless? Picture doesn't mean anything?
-		
+
+Practice improves
+Confreaks, youtube - no pressure way to practice - press pause
+
 #Checking in
 
 Share
@@ -676,80 +662,48 @@ infrequently and in batches rather than when I do them.
 
 My live sn was at ddd north 14 and had some lovely conversations with the presenters after the conference was over
 
-Corey Lattislaw - usually photographs at end but gets the award for most high-tech solution for using Google Glass to 
+Corey Lattislaw - in the past she used to photograph her sketchnotes at the end like everyone else but recently 
+she qualifies for the award for most high-tech solution, she uses an old pair of Google Glasses to 
 record her sketchnotes live and then share the still images and short vine-like videos on G+.
-
  
 # Using 
 
-Is it just for talks? Other uses - one technique to get you started.
-Laurens Bonnema, agile coach - retrospectives, reviews and sprint planning. If anyone is interested in this, Laurens runs 
-a course for Product Owners and there are details in the SNW.
+Is it just for personal recording of conferences, talks, meetings? There are other uses this was just one example to get you started.
 
-Julie Stitt and Derek Bruff are exploring using VN in class rooms and are seeing improvements in pupil outcomes
+In Education, Julie Stitt and Derek Bruff are exploring using VN in class rooms and are seeing improvements in pupil outcomes
+for recall and engagement.
 
-Austin Kleon steal like an artist - a writer who draws 
-Daily journal
+Vanessa Ralph - Kickstarter - Chemistry textbook (image)
+
+Austin Kleon keeps a daily journal of his todo and what he has achieved. He (and lots of others) seem to like to do 
 Book summaries
 
-Recording your personal Conferences, talks, meetings
-Visual recording and facilitation
-Uses in Agile (TODO contact Laurens Bonnema)
-Atlassian -shared understanding
-Angel M
-Corinna Balduf
-Sam and Karen in SA - talk to them?
+For the agile folk amongst us:
+
+Laurens Bonnema, agile coach - uses SNs to facilitate some of the Scrum Process - in sprint planning, during retrospectives and reviews. 
+If anyone is interested in this, Laurens runs a course for Product Owners and there are details in the SNW.
+
+I talked about Atlassian at the start - building shared understanding
 
 Veronica Erb - uses SNs in her UX work and to help engagement with her clients
 
-Agile adoption
-Corinna Baldauf  at agile 2015
-Claudia Sandoval
-Renee Troughton
-Tim Meyers
-Elizabeth McClellan
-
-Unit Summaries
-Project Planning
-Reading Summaries
-Giving Presentations
-
-Understanding your own learning
-
-Muda
-Lean - Kanban dan brown
-
-interesting work in simplifying architecture diagrams
-Simple Sketches for Diagramming your Software Architecture - Simon Brown - abandoning UML.
-http://www.methodsandtools.com/archive/softwarearchitecturesketches.php
-
-Education - Derek Bruff - sketchnotes as part of teaching, Doug Neill
-Vanessa Ralph - Kickstarter - Chemistry textbook (image)
-
-Julie Stitt banned notes in class for her teaching and saw improvements in engagement.
-	
-Sasha Chua
-
 # Personal Study
+
 I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
 Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
 
 	
 # My Contribution - In Reverse
-
-Had to do a talk which included a fair bit of live coding and was pointless having a powerpoint I was 
-constantly switching to and from. I still needed a narrative flow through the ideas and hate having 
-notes jotted down - glasses - where I find I spend most of my time looking down and reading the notes to 
-myself with long pauses. Didn't have the opportunity to rehearse very much either. So I decided to test 
-the claim that the memory thing would work and I created sketchnote of what I imaginged someone who was watching
-me would make. I then used this as my guide for the talk - it was easy to keep track of where I was in the 
-flow without having to keep reading word for word. 
 	
-Hate live coding but couldn't get out of it but also hate not having notes. Getting old,
-I can't look at screen and type (without glasses) and look at paper with glasses. 
-Tried out idea that if our unit tests work, we should be able to fly using them on their own. 
+Had to do a talk which included a fair bit of live coding and was pointless having a powerpoint I was 
+constantly switching to and from. Hate live coding but couldn't get out of it, didn't have much time to 
+rehearse a seamless presentation and also find I get lost really easily when trying to follow written notes. 
+I end up having to read them and it's a bit horrific. I still needed a narrative flow through the ideas. 
+So I decided to test the claim that the memory thing would work and I created sketchnote of what I imaginged someone who was watching
+me would make. I then used this as my guide for the talk - it was easy to keep track of where I was in the 
+flow without having to keep reading word for word.
 
-And so was born the concept of Sketchnoting in Reverse. I blogged and tweeted about it and that was it.
+And so was born the idea of Sketchnoting in Reverse. I blogged and tweeted about it and that was it.
 The presentation worked beautifully and I had a lot of good feedback from it. I have since used it a few 
 more times for other talks and sometimes to help me plan a talk.
 
@@ -864,9 +818,6 @@ When you are doing it you are taking what you are hearing
 and hooking it to your internal frame of reference, learning is 
 adding new information onto old information that you already have.
 
-Writing - possible to write down word for word without understanding of content.
-Also you hope you can make sense of it later who goes back to it?
-
 VN - listen to what's being said and really hear and understand.
 Come up with your own way to represent, text or images to connect 
 what you are learning to what you already know. 
@@ -874,8 +825,3 @@ what you are learning to what you already know.
 Find myself asking more questions at conferences - 
 
 
-learned skill, cool to share but no one really needs to understand
-What you are creating here is a programming language for your own memory
-that's why it's so much better than F# ...
-you are creating symbols that mean something to you that literally
-compile only on your virtual machine
