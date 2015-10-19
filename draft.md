@@ -679,9 +679,6 @@ My live sn was at ddd north 14 and had some lovely conversations with the presen
 Corey Lattislaw - usually photographs at end but gets the award for most high-tech solution for using Google Glass to 
 record her sketchnotes live and then share the still images and short vine-like videos on G+.
 
-
-
-
  
 # Using 
 
@@ -766,35 +763,39 @@ more times for other talks and sometimes to help me plan a talk.
  	
 	 Infamy infamy they've all got it infamy
 	 	
-#Some Cool things that have happened to me this year...
+# Some Cool things that have happened to me this year...
 				
-1. I did a SN of the first meeting of Michael Tiberg's FooCafe, where Dan North talked about deliberate practice.
-Michael Tiberg (of oredev fame) contacted me and asked for a high-res version of the picture I posted on twitter.
-They are going to use it for A1 size promotional posters for FooCafe around university campuses, co-working spaces etc.
-They are being printed about now, need to get a picture of one in situ.
+1. I did a SN of the first meeting of FooCafe, where Dan North talked about deliberate practice.
+The organizer of Foo Cafe, Michael Tiberg (of oredev fame) contacted me and asked for a high-res version of the 
+picture I posted on twitter. They are going to use it for A1 size promotional posters for FooCafe around university 
+campuses, co-working spaces etc. in Sweden.
+
+They are being printed about now so I don't have one yet but I'm looking forward to getting a picture of one in situ.
 
 ./images/foo-cafe-site.jpg
 
 					
-2. Paul Klipp asked for SN's for the 2015 ACE conference he organizes in 
-Poland. I was picked to contribute and drew the short straw for Tom Gilb's data heavy talk on agile's roots
-and his experiences of consulting with organizations. The procedings are available for donations from leanpub 
+2. Agile consultant Paul Klipp hired me to do a SN for the 2015 ACE conference he organizes in 
+Poland. I drew the short straw to do Tom Gilb's talk, not because there was anything wrong with it 
+but it was very fact and statistics heavy and took a lot of absorption and processing to come up with a workable 
+representation. This is one example where I definitely had to have more than one go at it to get 
+something I was comfortable with. Paul has made the procedings available for donations on leanpub 
 
 ./images/ace-conference-2014-tom-gilb - keynote.png
 
 ./images/ace-2014-conference-leanpub.jpg
 
 
-3. I mentioned the SNW Mike Rohde produced in 2014. I talked earlier 
-about my approach to SN backwards. After I published that blog post, Mike Rohde 
-asked if he could include it in his book.  
+3. In 2014 Mike Rohde came up with the sequel to the SNH, and called it the SNW and filled it with all the different ways 
+people were using the techniques he had taught in interesting and unusual ways. I can personally recommend page 55 of that 
+book above all of the other, frankly rubbish pages.
 
 ./images/rohde-sketchnote-workbook.png
 ./images/rohde-sketchnote-workbook-page-55.png
 
 # Inspiration
 
-Finally some sources of inspiration, no shortage on social media,
+Finally some sources of inspiration, there are no shortage on social media,
 so find someone or a few people whose styles you like and steal icons and 
 techniques you like. I often find that I find one thing I like and make a note 
 to nick it, rather than the whole thing.
