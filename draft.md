@@ -27,8 +27,6 @@ And yet as a culture, children are not self-conscious when they draw, but as we 
 and get more "serious" and "professional" we are gradually encouraged to leave those 
 childish things behind.
 
-"All children are artists. The problem is how to remain an artist once he grows up" - Picasso
-
 Thankfully, techniques like Visual Thinking and problem solving and Visual Notetaking/Sketchnoting are starting 
 to be adopted by the agile community in all kinds of ways. This adoption, like most agile 
 technqiues, is driven by their effectiveness for communication and learning, rather than tradition.
@@ -47,10 +45,6 @@ working out problems from user stories and lots of others.
 "The winner is the best idea not the best artist".
 
 I have to thank Jeff Patton, who consults for Atlassian, for letting me use these slides.
-
-As developers, during our careers we will be called on to constantly keep our knowledge, our skills 
-up to date and learn, unlearn and re-learn as fast as we can. We should take advantage of 
-as many opportunities as we can to make that job easier.
 
 I'm a developer working in an agile team and I should be drawing and communicating more.
 
@@ -82,8 +76,9 @@ in a drawer, curling at the edges, yellowing slightly, unused and unloved.
 #What?
 
 Someone who was equally frustrated with long form, hand written or typed notes was 
-Mike Rohde, a UX and design specialist in the US. Mike has illustrated books for 37 signals (picture),
-and started identifying alternative note-taking strategies in around 2006 and went on to 
+Mike Rohde, a UX and design specialist in the US. Among Mike's credits are illustrations 
+for books by 37 signals (picture). 
+He started identifying alternative note-taking strategies in around 2006 and went on to 
 literally write the book on sketchnotes in 2012.
 
 In the book Mike defined sketchnotes like this:
@@ -385,6 +380,7 @@ Dave Gray people
 
 
 #Emotions
+
 Austin Kleon faces in boxes, strangley most of my figures show emotion through posture (I don't make them big 
 enough to make emotions worthwhile). I often add faces to inanimate objects to show working or broken status.
 
@@ -394,18 +390,17 @@ Sean Wes examples
 
 A big part of sketchnoting is making your writing look better than normal (if you're anything like me). 
 Bad handwriting? writing block capitals will slow you down and improve your handwriting with practice
-Write like you are drawing - more appreciation for typography.
+Write like you are drawing, create each letter as it's own set of curves and lines.  more appreciation 
+for typography.
 
-Like in HTML coding, using text size and boldness, framing etc. to show relative importance
-according to text size, placement and font - bold block capitals, script, lower case?
+It's good to practice several types of well type - 
 
-Practice several types of well type - block capitals, lower case, script, 3d when you get more ambitious.
-
-lowercase most often
-ALL CAPS
-and double all caps
-Shadow
-Script (not often)
+block capitals, 
+double caps,
+lower case, 
+script (occasionally), 
+3d when you get more ambitious.
+outline or boxed
 
 
 # Type Errors 
@@ -414,11 +409,10 @@ I am really bad at writing block Y's and A's. They are never symmetrical and I a
 a tip to correct type errors. Use double lines or fill in parts of a character to even up type, correct kerning, even 
 out letter height and sometimes correct spelling. 
 
-
 # Hierarchy
 
-Create a hierarchy using size and separation
-use numbers for ordering
+Create a hierarchy using size and separation, boldness, framing - bigger things are more important. 
+Things in boxes or with more emphasis are more important. Think web H1..h6
 
 # Colour
 
@@ -437,7 +431,7 @@ examples of layouts
 If you aren't confident about judging where parts of your composition should go or not very 
 good at spacing stuff out, get yourself a blue pencil (as seen in the photo) - it gives you 
 just enough help to see what you are doing but doesn't show up well against black ink and doesn't show 
-up very well on photographs. I got that tip from a comic artist who uses a blue pencil all the time 
+up very well on photographs. I got that tip from a web-comic artist who uses a blue pencil all the time 
 to mock out where figures are going to be. When the final art work is scanned, the blue is so feint 
 it doesn't show up - particularly in b&W
 
@@ -445,6 +439,8 @@ it doesn't show up - particularly in b&W
 
 So let's talk about how to get started sketchnoting a presentation like the ones 
 we will be seeing today...
+
+REFACTOR ------------------------------------------------
 
 
 #Hello, World
@@ -557,15 +553,20 @@ Do you prefer more words and fewer pictures or more pictures with just a few key
 Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
 of importance to everything in your note.
 
+
+
+REFACTOR ------------------------------------------------
+
 # Create your own DSL
 
 In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
 What will develop are a set of repeating icons that you will use over and over again to act as markers in your notes.
 
 E.g. 
-Lightbulb for idea
-Something you disagree with or controversial could be an exclamation mark
-A bang splat could be a surprising idea or a surprising fact. 
+Ideas could be Lightbulbs
+
+exclamation mark could be Something you disagree with or controversial
+a surprising fact or idea could be a star or bang. 
 Book for reference to look up
 Cloud for something to google
 
@@ -581,35 +582,40 @@ only required to parse or compile on a single virtual machine - your brain. (wor
 
 # Inspiration
 
-Finally some sources of inspiration, there are no shortage on social media,
-so find someone or a few people whose styles you like and steal icons and 
-techniques you like. I often find that I find one thing I like and make a note 
-to nick it, rather than the whole thing.
+If you feel a bit lost for inspiration, there are no shortage on social media,
+so find some styles you like and steal icons and techniques you like, it won't be long 
+before you make them your own. 
 
 Sketchnote army
 The noun project
 
 # Embrace your mistakes
 
-Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
-mostly no one will notice in the finished note. If you make a mess, just accept it and move on - worrying about what 
-you have done wrong will stop you capturing anything else the speaker has to say.
+Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over 
+bits that are wrong and mostly no one will notice in the finished note. If you make a mess, just 
+accept it and move on - worrying about what you have done wrong will stop you capturing anything 
+else the speaker has to say.
 
-You can use patterns or fold the error into another design at the end. The other alternative is to repeat them - the first 
-rule of acting improv. is to repeat and make it look like you intended it.
+You can use patterns or fold the error into another design at the end. The other alternative is 
+to repeat them - the first rule of acting improv. is to repeat the mistake and make it look like 
+you intended it.
 
 Examples of mistakes
 
 
 # Review
 
-Towards the end of the talk, check whether you have captured the right things. Are the main points visible, 
-do they stand out? If not maybe make them more visible with spot colours, boxes or banners, numbers
+Towards the end of the talk, check whether you have captured the right things. 
 
-Is the flow of the talk clear? Can you do anything else to enhance the hierarchy and connect ideas together 
+Are the main points visible, do they stand out? If not maybe make them more visible with spot colours, 
+boxes or banners
+
+Can you do anything else to enhance the hierarchy and connect ideas together 
 that were not obvious at the time.
 
 Quotes? Put in speech bubbles or quotation marks.
+
+Is the flow of the talk clear? use numbers to indicate non-obvious flows.
 
 If you want, use colour to draw attention to things - don't use everywhere
 
@@ -652,19 +658,21 @@ record her sketchnotes live and then share the still images and short vine-like 
  
 # Using 
 
-Is it just for personal recording of conferences, talks, meetings? There are other uses this was just one example to get you started.
+Is it just for personal recording of conferences, talks, meetings? There are other uses this 
+was just one example to get you started.
 
-In Education, Julie Stitt and Derek Bruff are exploring using VN in class rooms and are seeing improvements in pupil outcomes
-for recall and engagement.
+In Education, Julie Stitt and Derek Bruff are exploring using VN in class rooms and are seeing 
+improvements in pupil outcomes for understanding, recall and engagement.
 
-Vanessa Ralph - Kickstarter - Chemistry textbook (image)
+Vanessa Ralph - has a Kickstarter to sketchote a Chemistry textbook (image)
 
-Austin Kleon keeps a daily journal of his todo and what he has achieved. He (and lots of others) seem to like to do 
-Book summaries
+Austin Kleon keeps a daily journal of his todo lists and what he achieved during the day. He (and lots of 
+others) seem to like to do Book summaries in sketchnote form.
 
 For the agile folk amongst us:
 
-Laurens Bonnema, agile coach - uses SNs to facilitate some of the Scrum Process - in sprint planning, during retrospectives and reviews. 
+Laurens Bonnema, agile coach - uses SNs to facilitate some of the Scrum Process - in sprint planning, 
+during retrospectives and reviews. 
 If anyone is interested in this, Laurens runs a course for Product Owners and there are details in the SNW.
 
 I talked about Atlassian at the start - building shared understanding
@@ -673,9 +681,8 @@ Veronica Erb - uses SNs in her UX work and to help engagement with her clients
 
 # Personal Study
 
-I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
+For example I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
 Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
-
 	
 # My Contribution - In Reverse
 	
@@ -683,9 +690,9 @@ Had to do a talk which included a fair bit of live coding and was pointless havi
 constantly switching to and from. Hate live coding but couldn't get out of it, didn't have much time to 
 rehearse a seamless presentation and also find I get lost really easily when trying to follow written notes. 
 I end up having to read them and it's a bit horrific. I still needed a narrative flow through the ideas. 
-So I decided to test the claim that the memory thing would work and I created sketchnote of what I imaginged someone who was watching
-me would make. I then used this as my guide for the talk - it was easy to keep track of where I was in the 
-flow without having to keep reading word for word.
+So I decided to test the claim that the memory thing would work and I created sketchnote of what I imaginged 
+someone who was watching me would make. I then used this as my guide for the talk - it was easy to keep 
+track of where I was in the flow without having to keep reading word for word.
 
 And so was born the idea of Sketchnoting in Reverse. I blogged and tweeted about it and that was it.
 The presentation worked beautifully and I had a lot of good feedback from it. I have since used it a few 
@@ -699,7 +706,7 @@ more times for other talks and sometimes to help me plan a talk.
 		
 ----
  	
-	 Infamy infamy they've all got it infamy
+# Infamy infamy they've all got it infamy
 	 	
 # Some Cool things that have happened to me this year...
 				
@@ -708,10 +715,8 @@ The organizer of Foo Cafe, Michael Tiberg (of oredev fame) contacted me and aske
 picture I posted on twitter. They are going to use it for A1 size promotional posters for FooCafe around university 
 campuses, co-working spaces etc. in Sweden.
 
-They are being printed about now so I don't have one yet but I'm looking forward to getting a picture of one in situ.
-
-./images/foo-cafe-site.jpg
-
+They are being printed about now so I don't have one yet but I'm looking forward to 
+getting a picture of one in situ.
 					
 2. Agile consultant Paul Klipp hired me to do a SN for the 2015 ACE conference he organizes in 
 Poland. I drew the short straw to do Tom Gilb's talk, not because there was anything wrong with it 
@@ -719,14 +724,9 @@ but it was very fact and statistics heavy and took a lot of absorption and proce
 representation. This is one example where I definitely had to have more than one go at it to get 
 something I was comfortable with. Paul has made the procedings available for donations on leanpub 
 
-./images/ace-conference-2014-tom-gilb - keynote.png
-
-./images/ace-2014-conference-leanpub.jpg
-
-
-3. In 2014 Mike Rohde came up with the sequel to the SNH, and called it the SNW and filled it with all the different ways 
-people were using the techniques he had taught in interesting and unusual ways. I can personally recommend page 55 of that 
-book above all of the other, frankly rubbish pages.
+3. In 2014 Mike Rohde came up with the sequel to the SNH, and called it the SNW and filled it with all 
+the people were using the techniques he had taught in interesting and unusual ways. I can personally 
+recommend page 55 of that book above all of the other, frankly rubbish pages.
 
 ./images/rohde-sketchnote-workbook.png
 ./images/rohde-sketchnote-workbook-page-55.png
@@ -736,19 +736,18 @@ book above all of the other, frankly rubbish pages.
 	
 #Try
 
-Try for one or more of the sessions today. I have the word of the organizer that 
+Try sketchnoting one or more of the sessions today. I have the word of the organizer that 
 nobody will kill you for trying. 
 
-Post a picture sketchnote of a talk to twitter using #dddnorth or tweet @DDDNorth
+Post a picture of the sketchnote to twitter using #dddnorth or tweet @DDDNorth
 (or come and show me so I can tweet it)
 
 ----
 				
 #Catch
 
-I will pick at semi-random a winner who will receive a copy of Mike Rohde's new book
-the SNW at the end of the day. If you aren't in the room for the giveaways you won't get it
-and I'll pick someone else.
+I will pick a winner at semi-random and they will receive a copy of Mike Rohde's new book
+the SNW at the end of the day. 
 
 ----
 
@@ -758,14 +757,12 @@ I'll stop there. The rest of the conference is coming along soon and I should be
 
 # Questions 
 
-
 Not given this talk very much so there are bugs in it. If you find one please
 let me know.
 	
 # Photo Credits
 
 Atlassian - Jeff Patton 
-
  
 # References
  
