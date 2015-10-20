@@ -92,37 +92,14 @@ In the book Mike defined sketchnotes like this:
 shapes and visual elements like arrows, boxes and lines.”
 
 I should note that Mike didn't really invent any of these techniques, Visual Recording and 
-Graphical facilitation have been a thing since the 70s and I think drawing as an art form 
-has been going on longer than that. 
+Graphical facilitation have been a thing since the 70s (skill in themselves - lets group see their work, 
+see connections, big picture and trends) and I think drawing as an art form has been going on 
+longer than that. 
 
 <!-- Show the promised land before explaining how you'll get there -->
 
-<!--
-#Meanwhile
-
-Austin Kleon
-Events, book summaries, diary
-
-#Meanwhile
-
-Dave Gray
-UX interaction
-Sketching at conferences
-Merlin Mann
-
-#Meanwhile
-
-Graphic Recording and Visual Facilitation in the 70s right up to today
-Rachel Smith
-Jeannel King
-biggest of information radiators
-
-Rachel Smith - lets group see their work, see connections, big picture and trends (information radiator)
-
-and on back into history - cave paintings and leonardo.
--->
-
 # Examples
+
 So here are some examples of sketchnotes that I particularly like:
 
 Rohde - pictures - paper
