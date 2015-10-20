@@ -8,53 +8,49 @@ https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b
 -->
 # Introduction
 
-Hi good morning, thank you for coming to ddd and this talk at too early oclock on a saturday.
+Hi good morning, thank you for coming to ddd and this talk at too early o'clock on a saturday.
 My name is Derek Graham and I am a Principal Developer at Sage
 
 <!-- Name the enemy - name the thing that's getting in the way of happiness -->
 How many agile developers do we have in the room?
 
-One of the big outward differences between "traditional" and agile projects is evidence of what 
-are called "Big Visible Charts" or "Information Radiators".
+One of the big outward differences between "traditional" and agile projects is evidence of 
+what we like to call "Big Visible Charts" or "Information Radiators".
 
-Big graphics on the walls of a team space that show ideas for new features, 
-what's being worked on, progress towards goals, UI mock ups, burn downs, kanbans. 
-
-These things are in line with the XP value of communication and the idea of 
-"Individuals and interactions over processes and tools".
+Big graphics on the walls of a team space that externalise the state of the team - 
+ideas for new features, what's being worked on, progress towards goals, UI mock ups, 
+burn downs, kanbans. These things are in line with XP's value of communication and 
+the idea of "Individuals and interactions over processes and tools". Visuals 
+encourage interaction and conversation.
  
-And yet as a culture, little children are not self-concious when they draw, but as we grow up 
+And yet as a culture, children are not self-conscious when they draw, but as we grow up 
 and get more "serious" and "professional" we are gradually encouraged to leave those 
 childish things behind.
 
 "All children are artists. The problem is how to remain an artist once he grows up" - Picasso
 
-Thankfully, techniques like Visual Thinking and problem solving and Visual Notetaking are starting 
+Thankfully, techniques like Visual Thinking and problem solving and Visual Notetaking/Sketchnoting are starting 
 to be adopted by the agile community in all kinds of ways. This adoption, like most agile 
 technqiues, is driven by their effectiveness for communication and learning, rather than tradition.
 
 It's caught on to such a degree in the agile community, sketchnoters are being hired to work 
 at conferences, capturing content as a way of documenting the presentations beyond video.
 
-Corinna Baldauf, Claudia Sandoval and others even put together a little ebook of 
-sketchnotes following the Agile 2015 conference in Washington D.C.
+At the most recent big A Agile conference in Washington D.C. Corinna Baldauf, 
+Claudia Sandoval and others put together their sketchnotes into an ebook that you can download for free.
 
 Atlassian (the company who make the Jira tool) are one example of a company who get everyone involved 
 in conversations about how the software should look, behave, the priorities for work, and all 
 the work is made visible on walls around the business. They use visual techniques for brainstorming, 
 working out problems from user stories and lots of others. 
+
 "The winner is the best idea not the best artist".
 
 I have to thank Jeff Patton, who consults for Atlassian, for letting me use these slides.
 
-What we know about how our brains store and process information mean 
-that this is a growing field of study and will be increasingly important in the future.
-
-As developers during our careers we will be called on to constantly keep our knowledge, our skills 
+As developers, during our careers we will be called on to constantly keep our knowledge, our skills 
 up to date and learn, unlearn and re-learn as fast as we can. We should take advantage of 
 as many opportunities as we can to make that job easier.
-
-Computers - Tom Gauld
 
 I'm a developer working in an agile team and I should be drawing and communicating more.
 
@@ -62,32 +58,32 @@ What I'd like to share with you today is what I think of as the gateway drug, sk
 show your some techniques you can use in the rest of your sessions at DDD and I hope you'll be 
 inspired to try using them in your personal and professional lives as well. 
 
-Pattern on the stone - W Daniel Hillis
-
 <!-- Why now ? - will it get worse? -->
 
 # Mary
 
-In the late 90's I attended a c++ conference in Oxford which included a few sessions on agile, lean 
-and XP. One talk was given by the fabulous Mary Poppendieck (picture) and it was a talk that changed my 
+Back in 2007 I attended a c++ conference in Oxford which included a track focussed on agile and lean 
+ - something the C++ community was just coming to realise was a thing. 
+One talk was given by the fabulous Mary Poppendieck (picture) and it was a talk that changed my 
 professional life.
 
 At the time, the company I worked for were adopting lean production techniques for their hardware 
 manufacturing and assembly but those concepts didn't make it upstairs to the software department. Mary's 
-keynote helped me understand what those concepts meant for software. I still have the notes but another person  
-couldn't tell you what they were about. It's only memory of the talk that tells me that she was talking about the 
-Toyota Production System, what stop the line quality means for software and how we should emulate the mechnical 
-looms of the Toyoda Weaving mills of the late 19th and early 20th century.
+keynote helped me understand what lean concepts meant for software. I still have the notes but any other 
+person reading them would not be able to tell you what they were about. 
+It's only my memory that tells me that she was talking about the 
+Toyota Production System, what "stop the line quality" means for software and how we should 
+emulate the automated looms of the Toyoda Weaving mills of the late 19th and early 20th century.
 
 Many more times over the years I have attended important events and promised myself that this time, I'll take 
-good, long form notes and definitely refer to them again, they will be so useful. But there they sit, still 
+good, long form notes and definitely use them, they will be useful. But there they sit, still 
 in a drawer, curling at the edges, yellowing slightly, unused and unloved. 
  
 #What?
 
 Someone who was equally frustrated with long form, hand written or typed notes was 
 Mike Rohde, a UX and design specialist in the US. Mike has illustrated books for 37 signals (picture),
-and started identifying alternative note taking strategies in around 2006 and went on to 
+and started identifying alternative note-taking strategies in around 2006 and went on to 
 literally write the book on sketchnotes in 2012.
 
 In the book Mike defined sketchnotes like this:
@@ -95,8 +91,9 @@ In the book Mike defined sketchnotes like this:
 “...rich visual notes created from a mix of handwriting, drawings, hand-drawn typography, 
 shapes and visual elements like arrows, boxes and lines.”
 
-You should note that Mike didn't really invent any of these techniques, Visual Recording and facilitation have been
-a thing since the 70s and I think drawing as an art form has been going on longer than that. 
+I should note that Mike didn't really invent any of these techniques, Visual Recording and 
+Graphical facilitation have been a thing since the 70s and I think drawing as an art form 
+has been going on longer than that. 
 
 <!-- Show the promised land before explaining how you'll get there -->
 
