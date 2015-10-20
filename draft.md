@@ -602,6 +602,16 @@ is true. This hand-written DSL you are developing does not involve a keyboard - 
 only required to parse or compile on a single virtual machine - your brain. (works on my machine).
 
 
+# Inspiration
+
+Finally some sources of inspiration, there are no shortage on social media,
+so find someone or a few people whose styles you like and steal icons and 
+techniques you like. I often find that I find one thing I like and make a note 
+to nick it, rather than the whole thing.
+
+Sketchnote army
+The noun project
+
 # Embrace your mistakes
 
 Don't worry about spelling or drawing mistakes. You can come back and fill in letters, draw over bits that are wrong and 
@@ -744,15 +754,6 @@ book above all of the other, frankly rubbish pages.
 ./images/rohde-sketchnote-workbook.png
 ./images/rohde-sketchnote-workbook-page-55.png
 
-# Inspiration
-
-Finally some sources of inspiration, there are no shortage on social media,
-so find someone or a few people whose styles you like and steal icons and 
-techniques you like. I often find that I find one thing I like and make a note 
-to nick it, rather than the whole thing.
-
-Sketchnote army
-The noun project
 		
 ----
 	
