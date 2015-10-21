@@ -20,12 +20,13 @@ what we like to call "Big Visible Charts" or "Information Radiators".
 Big graphics on the walls of a team space that externalise the state of the team - 
 ideas for new features, what's being worked on, progress towards goals, UI mock ups, 
 burn downs, kanbans. These things are in line with XP's value of communication and 
-the idea of "Individuals and interactions over processes and tools". Visuals 
-encourage interaction and conversation.
+the idea of "Individuals and interactions over processes and tools". Visuals, especially 
+hand made ones, encourage interaction and conversation. 
  
 And yet as a culture, children are not self-conscious when they draw, but as we grow up 
 and get more "serious" and "professional" we are gradually encouraged to leave those 
-childish things behind.
+childish things behind. Sometimes when we are asked for charts and visuals, we're tempted to 
+reach for Excel or Visio to create professional looking artefacts.
 
 Thankfully, techniques like Visual Thinking and problem solving and Visual Notetaking/Sketchnoting are starting 
 to be adopted by the agile community in all kinds of ways. This adoption, like most agile 
@@ -50,7 +51,7 @@ I'm a developer working in an agile team and I should be drawing and communicati
 
 What I'd like to share with you today is what I think of as the gateway drug, sketchnoting, and 
 show your some techniques you can use in the rest of your sessions at DDD and I hope you'll be 
-inspired to try using them in your personal and professional lives as well. 
+inspired to try them out today but also to use them in your personal and professional lives as well. 
 
 <!-- Why now ? - will it get worse? -->
 
@@ -110,8 +111,8 @@ Jeanel King - Wall
 # 3 - Why?
 
 Sketchnoting, is really about making notes more memorable, it's where you are NOT trying to capture 
-every word and every detail but trying to get the big picture (no pun intended), helping you get a 
-higher-level conceptual understanding and integrate ideas. It seems to be particularly suited to 
+every word and every detail but trying to get the big picture (no pun intended), to get a 
+higher-level conceptual understanding and integrate ideas. It also seems to be particularly suited to 
 long-term recall (Kiewra & Fletcher 1984)
 
 In ancient greece there are examples of stunning feats of memory and a number of writers compiled 
@@ -131,8 +132,8 @@ around the eiffel tower (which is a much better thing for your mind to remember)
 Science seems to be on our side in this, there have been several studies in recent years that suggest longhand 
 note-taking is better than keyboard, and visuals are better than text for information assimilation and recall.
 
-Aside from the obvious distractions of facebook and twitter, email, IM etc, writing by hand seems to form 
-better links between what you are writing and the memory.
+Aside from the obvious distractions of facebook and twitter, email, IM etc, that come with an electronic device,
+writing by hand seems to establish better links between what you are learning and your memory.
 
 Williams & Eggert 2002 - found that the most effective way of taking notes is with an overall framework (the big picture) 
 and embellished with critical specifics. That sounds an awful lot like sketchnotes.
@@ -175,37 +176,24 @@ duck or any person substitute.
 
 12 minutes to here 
 
-REFACTOR *******************************************
+Taking normal notes, effectively something like dictation, it's perfectly possible to write down everything someone says 
+and not to have understood a word. When you sketchnote, you are using active listening skills and forcing yourself 
+to externalise what you are hearing, coming up with, on the fly, your own interpretation. 
 
-With normal notes, it's perfectly possible to write down everything someone says and not to have understood a word. 
-When you sketchnote, it's all about active listening, not about winning a drawing competition. 
-You are inventing a visual language to expand on traditional notes and forcing yourself to externalise what you are 
-hearing and come up with your own interpretation. It's a more deliberate & slower way of taking  
-notes that encourages better listening, meaning you will understand better, recall more and be able to communicate 
-the information you consume. It forces you to make sense in your mind of what you hear, find a way to represent 
+It's a more deliberate & slower way of taking notes that encourages better listening, improving your understanding, your recall and 
+making you more able to communicate the information you consume. It forces you to make sense in your mind of what you hear, find a way to represent 
 it on the page in a way that makes sense to you.
 
-With sketchnotes, you are forced to externalise what you are hearing and come up with your own interpretation. That 
-seems to help concepts be better fixed in your memory and also to help recall. It appears to be that engaging another 
-medium in the process engages other centres of the brain to help make sense of the information and increases memory creation.
+Senses designed to work together - so when combined in a learning environment,
+images and text say, the brain pays more attention and encodes the memory more robustly.
 
-
-Evolutionarily, threats to our survival came to us first visually in the shape of a rapidly approaching tiger 
-rather than a hand-written invitation - the tiger who came to tea. 
+it's no surprise our brains are visually driven. In terms of Evolution, threats to our survival came to us first visually in the 
+shape of a rapidly approaching tiger rather than a hand-written invitation - the tiger who came to tea. 
 
 Words are only postage stamps delivering the object for you to unwrap - george bernard shaw
 
-Senses designed to work together - so when combined in a learning environment,
-images and text say, the brain pays more attention and encodes the memory
-more robustly.
-
-*Smell is especially important* - Look for mor examples
-
 Interestingly, smell seems to play the biggest part in memory making and recall. Im not sure if a talk on Smell notes
 would have got an audience!
-
-REFACTOR *******************************************
-
 
 # DDD North 2014
 
@@ -303,9 +291,6 @@ few lines and few words.
 
 Finally, everyone's favourite web comic, xkcd by Randall Monroe, again stick figures and text.
 
-./images/xkcd-whatif-tie-coin-toss.png
-
-
 As rubbish artist Pablo Picasso says:
 
 Painting is a blind man's profession. He paints not what he sees, but what he feels, 
@@ -331,8 +316,9 @@ dot, line, arrow, circle, square, triangle
 If you can write your own name and make these marks with a burnt stick you can sketchnote.
 <!-- If you can't do any of these come talk to me later -->
 
-
 # Composition
+
+We use composition to use build more shapes from these primitives. No inheritance is involved.
 
 All we do is put these shapes together to build other shapes.									
 
@@ -348,28 +334,21 @@ Flags
 
 # Visual Alphabet
 
+You use the shapes to build symbols that actually represent something from the talk in your sketchnote.
 
- Sunni Brown - dots, lines, spirals, waves, rectangles, circles, triangles
- 
- #Symbols
- 
- compose alphabet into your own DSL
- 
  # Bullets for lists
  
  # Speech Bubbles
  
+ quotes or to simuate conversations.
+ 
  # Arrows
  
- to link 
+connect to link, big arrows for emphasis
  
  # Dividers
  
- separators
- 
-Lines and Arrows separate and connect
-dotted lines, arrows, big arrows, 
-headings 
+ separate - dotted lines, 
  
 # People
  
@@ -401,6 +380,7 @@ script (occasionally),
 3d when you get more ambitious.
 outline or boxed
 
+Headings
 
 # Type Errors 
 
@@ -444,47 +424,34 @@ REFACTOR ------------------------------------------------
 
 # 7 - Hello, World
 
-So you're going to SN at talk, here's how to get started.
+So you're going to SN a talk, here's how to get started.
 
-Find out what the title is, and the speaker's name and fill those in first. Off to a good start.
-Listen to the first few remarks and try to judge what kind of layout you should use - is this 
+First, select your talk. 
+
+Fill in the title and the speakers name or twitter handle and your off to a good start.
+
+Listen to the first few remarks - often they will give you an outline of what they will talk about
+so you can judge what kind of layout you should use - is this 
 10 things I hate about..., is it a meandering recollection of past events...?
 Grids, tables - the 5 things I know about GitHub
 Big Idea with lots of bits around the outside (mindmap like)
 Journey/stories/steps 1...2..3.
 
+10 things I hate about javascript might give you an idea to use two rows of 5 columns, one
+box for each of the 10 things.
+
 Remember that this is a plan and if it doesn't match the reality of the talk, that's ok.
 
- #Structure
- 
- title, twitter name, pic?
- 
- based on talk 
- 
- get key topics down - not too much
- 
- Add highlights, details, accents, 
- 
-Pay attention, don't allow yourself to drift off.
+# Use you active listening
 
-Follow the speaker
-body language, voice - not the slides - they are available online after talk
+Listen to what the speaker is saying, not what you think they are saying and without judgement. Ego. Listening gets better the more you 
+practice it. Listening means you are thinking more about the subject and more likely to have questions at the end. 
 
-Don't boil the ocean
+Follow the speaker, their body language, voice - not the slides - they are available online after talk,
+listen for when they are excited, sweary, quiet.
 
-Listen for quotes - pull quotations
-
-If you only had 10 tweets to describe this talk, what would you use 
-them to tweet about ? 
-
-Technical talks - Don't capture code.
-Sasha Chua
-Listen for advice, libraries, products, fine just to watch demo.
-Tom Stuart, richard dalton
-Tom Gilb
-
-In quiet time, go back and draw associations and fill in details'
-boxes and arrows to give emphasis' - hiearchy
+Don't boil the ocean, don't try to put down too much - don't be tempted into the old 
+ways of taking dictation.
 
 Capture what stands out to you.
 
@@ -493,47 +460,17 @@ Skip bits that don't interest you
 Jokes, quotes f-bombs - high emotion or excitement, dramatic pauses, 
 metaphors and similies	
 				
-Quotes, things to lookup later, book references, unanswered questions
+Quotes - turn them into features, things to lookup later, book references, unanswered questions
 
-add decoration last - capture information in lulls or after add shading etc. when speaker is off 
-in the weeds use time to fill in bits or connect.
+# Be aware of hierarchy
 
-(Find some examples -eva lotta lamm use of quotes)
-
-Don't get all the detail
+Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
+of importance to everything in your note.
 
 At it's most basic, it's writing and using boxes and lines 
 to establish a visual hierarchy - what's important and what's less important.	 
 
-
-Filter and focus on what's important'
-
-Listen for things that mean someting to you.
-
-Tweets
-
-Embrace mistakes
-Block out
-Have a couple of fonts at your disposal
-
 Whitespace is good.
-
-# Use you active listening
-
-Listen to what the speaker is saying, not what you think they are saying and without judgement. Ego. Listening gets better the more you 
-practice it. Listening means you are thinking more about 
-the subject and more likely to have questions at the end. 
-
-# Listen to the presenter's early remarks
-
-They will often list the topics they are going to talk about and this will give you an opportunity to plan how to 
-lay out content on the page. 10 things I hate about javascript might give you an idea to use two rows of 5 columns, one
-box for each of the 10 things.
-
-# Use your Cache
-
-If the speaker is listing important things too quickly, try writing just the first word or part of a word for each item 
-then come back and fill in when you have a chance.
 
 # Listen for metaphors and similies
 
@@ -542,19 +479,42 @@ Often taking what the speaker says literally or intentionally misunderstanding c
 original idea more entertaining to you and therefore more likely to form a strong association in your memory.
 
 
+# Technical talks
+
+Don't capture code.
+
+Listen for advice, libraries, products, fine just to watch code demo.
+
+Tom Stuart, richard dalton
+
+
+# Rule of thumb
+ 
+Listen for things that mean something to you.
+ 
+If you only had 10 tweets to describe this talk, what would you use 
+them to tweet about ? 
+
+
+# Use your Cache
+
+If the speaker is listing important things too quickly, try writing just the first word or part of a word for each item 
+then come back and fill in when you have a chance.
+
+# Quiet times...
+
+In quiet time, lulls in the talk or when rambling stories are happening, go back and draw associations and fill in details'
+boxes and arrows to give emphasis - hiearchy, or just to catch up with your backlog.
+
+
 # Keep in mind how you learn
 
 Do you prefer more words and fewer pictures or more pictures with just a few key words sprinkled about? 
 
 
-# Keep it simple
+# Last
 
-Use basic shapes - bullets - lines and arrows, boxes and clouds to establish a visual hierarchy and give the correct level 
-of importance to everything in your note.
-
-
-
-REFACTOR ------------------------------------------------
+add decoration last - 
 
 20 minutes here to the end...
 # 8 - Create your own DSL
