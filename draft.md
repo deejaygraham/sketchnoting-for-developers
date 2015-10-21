@@ -6,7 +6,7 @@ http://scottberkun.com/2013/how-to-present-well-without-slides/
 http://scottberkun.com/2013/updated-speaking-checklist-for-great-talks-printable/
 https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b
 -->
-# Introduction
+# 1 - Introduction
 
 Hi good morning, thank you for coming to ddd and this talk at too early o'clock on a saturday.
 My name is Derek Graham and I am a Principal Developer at Sage
@@ -73,9 +73,9 @@ Many more times over the years I have attended important events and promised mys
 good, long form notes and definitely use them, they will be useful. But there they sit, still 
 in a drawer, curling at the edges, yellowing slightly, unused and unloved. 
  
-#What?
+# 2 - What?
 
-Someone who was equally frustrated with long form, hand written or typed notes was 
+Someone who was equally frustrated with long form, hand-written or typed notes was 
 Mike Rohde, a UX and design specialist in the US. Among Mike's credits are illustrations 
 for books by 37 signals (picture). 
 He started identifying alternative note-taking strategies in around 2006 and went on to 
@@ -107,7 +107,7 @@ Rachel Smith, Daniel Kirsch - ipad
 Sasha Chua - Tablet
 Jeanel King - Wall
 
-#Why?
+# 3 - Why?
 
 Sketchnoting, is really about making notes more memorable, it's where you are NOT trying to capture 
 every word and every detail but trying to get the big picture (no pun intended), helping you get a 
@@ -233,7 +233,7 @@ And why not? Short term factual recall - recording complete notes (meeting minut
 is more important than long term recall, normal typed or handwritten notes are better for these. 
 
 
-# My Equipment
+# 4 - My Equipment
 
 Let's talk quickly about my equipment. I am totally analogue in my approach. I carry a sketchbook with me 
 everywhere, the brand isn't important - I choose them based on how thick the paper is so it doesn't let 
@@ -256,7 +256,7 @@ for you to the point where the tool disappears - it should not be in the way.
 
 Let's talk about a frequent objection to sketchnoting. Anyone want to guess what it might be?
 
-# But I can't Draw
+# 5 - But I can't Draw
 
 Pic of retro advert...
 
@@ -322,7 +322,7 @@ Jeannel King a graphic recorder has written an ebook you can get online around t
 
 --------------------------------------------------------------------------------------------------
 
-# Basics
+# 6 - Basics
 
 So the primary elements of any drawing are these:
 
@@ -442,7 +442,7 @@ we will be seeing today...
 REFACTOR ------------------------------------------------
 
 
-#Hello, World
+# 7 - Hello, World
 
 So you're going to SN at talk, here's how to get started.
 
@@ -557,7 +557,7 @@ of importance to everything in your note.
 REFACTOR ------------------------------------------------
 
 20 minutes here to the end...
-# Create your own DSL
+# 8 - Create your own DSL
 
 In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
 What will develop are a set of repeating icons that you will use over and over again to act as markers in your notes.
@@ -603,7 +603,7 @@ you intended it.
 Examples of mistakes
 
 
-# Review
+# 9 - Review
 
 Towards the end of the talk, check whether you have captured the right things. 
 
@@ -656,7 +656,7 @@ Corey Lattislaw - in the past she used to photograph her sketchnotes at the end 
 she qualifies for the award for most high-tech solution, she uses an old pair of Google Glasses to 
 record her sketchnotes live and then share the still images and short vine-like videos on G+.
  
-# Using 
+# 10 - Using 
 
 Is it just for personal recording of conferences, talks, meetings? There are other uses this 
 was just one example to get you started.
@@ -684,7 +684,7 @@ Veronica Erb - uses SNs in her UX work and to help engagement with her clients
 For example I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
 Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
 	
-# My Contribution - In Reverse
+# 11 - My Contribution - In Reverse
 	
 Had to do a talk which included a fair bit of live coding and was pointless having a powerpoint I was 
 constantly switching to and from. Hate live coding but couldn't get out of it, didn't have much time to 
@@ -702,13 +702,16 @@ more times for other talks and sometimes to help me plan a talk.
 
 ----
 
-#Warning - Vanity Slides Ahead (#b5533c) autoslide
+# 12 - Warning - Vanity Slides Ahead 
 		
 ----
  	
 # Infamy infamy they've all got it infamy
 	 	
 # Some Cool things that have happened to me this year...
+
+I've been doing SN for about 2 years and I thought I would share with you a couple of cool 
+projects I've been involved with as a result.
 				
 1. I did a SN of the first meeting of FooCafe, where Dan North talked about deliberate practice.
 The organizer of Foo Cafe, Michael Tiberg (of oredev fame) contacted me and asked for a high-res version of the 
@@ -727,27 +730,23 @@ something I was comfortable with. Paul has made the procedings available for don
 3. In 2014 Mike Rohde came up with the sequel to the SNH, and called it the SNW and filled it with all 
 the people were using the techniques he had taught in interesting and unusual ways. I can personally 
 recommend page 55 of that book above all of the other, frankly rubbish pages.
-
-./images/rohde-sketchnote-workbook.png
-./images/rohde-sketchnote-workbook-page-55.png
-
 		
 ----
 	
 #Try
 
-Try sketchnoting one or more of the sessions today. I have the word of the organizer that 
+Try sketchnoting some of the sessions you are in today. I have the word of the organizer that 
 nobody will kill you for trying. 
 
-Post a picture of the sketchnote to twitter using #dddnorth or tweet @DDDNorth
+Post a picture of the sketchnote to twitter using #dddnorth 
 (or come and show me so I can tweet it)
 
 ----
 				
 #Catch
 
-I will pick a winner at semi-random and they will receive a copy of Mike Rohde's new book
-the SNW at the end of the day. 
+At the end of the day when we have prize giving, I will pick a winner at semi-random and 
+they will win a copy of Mike Rohde's new book the SNW. 
 
 ----
 
@@ -757,7 +756,7 @@ I'll stop there. The rest of the conference is coming along soon and I should be
 
 # Questions 
 
-Not given this talk very much so there are bugs in it. If you find one please
+I've not given this talk very much so there are bugs in it. If you find one please
 let me know.
 	
 # Photo Credits
