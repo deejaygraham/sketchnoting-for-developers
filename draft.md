@@ -107,7 +107,6 @@ Rachel Smith, Daniel Kirsch - ipad
 Sasha Chua - Tablet
 Jeanel King - Wall
 
-
 #Why?
 
 Sketchnoting, is really about making notes more memorable, it's where you are NOT trying to capture 
