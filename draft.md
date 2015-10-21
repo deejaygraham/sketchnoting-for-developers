@@ -294,8 +294,6 @@ to draw figures.
 Josie Long - her series of cartoons on how she would change the world, very simple figures, faces, text.
 ./images/josie-long-another-planet.jpg
 
-Stephen Collins
-
 Modern toss
 
 Modern toss are super sweary but get their ideas across very quickly with very simple, scrappy pictures, very 
@@ -338,7 +336,6 @@ All we do is put these shapes together to build other shapes.
 
 Picasso pic - built from simple lines			
 	
-
 Icons
 Label box with shadow
 Clouds - Investigate?
@@ -568,7 +565,7 @@ Ideas could be Lightbulbs
 exclamation mark could be Something you disagree with or controversial
 a surprising fact or idea could be a star or bang. 
 Book for reference to look up
-Cloud for something to google
+Cloud for something to investigate?
 
 Over time you'll become more comfortable with these icons and fluent in drawing them. They become your "Visual Language" 
 as sketchoting DSL if you will, a programming language for your brain. They really are there to communicate with you personally so it's fine if they don't 
