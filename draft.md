@@ -173,6 +173,8 @@ you to express the problem in your own words and often means that you solve the 
 talking. It's creating that expression that does the work, not the other person. That's why you can use a rubber 
 duck or any person substitute.
 
+12 minutes to here 
+
 REFACTOR *******************************************
 
 With normal notes, it's perfectly possible to write down everything someone says and not to have understood a word. 
@@ -554,6 +556,7 @@ of importance to everything in your note.
 
 REFACTOR ------------------------------------------------
 
+20 minutes here to the end...
 # Create your own DSL
 
 In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
