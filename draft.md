@@ -337,7 +337,8 @@ If you can write your own name and make these marks with a burnt stick you can s
 
 All we do is put these shapes together to build other shapes.									
 
-Picasso pic - built from simple lines				
+Picasso pic - built from simple lines			
+	
 
 Icons
 Label box with shadow
