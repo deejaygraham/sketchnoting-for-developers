@@ -14,7 +14,7 @@ My name is Derek Graham and I am a Principal Developer at Sage
 <!-- Name the enemy - name the thing that's getting in the way of happiness -->
 How many agile developers do we have in the room?
 
-One of the big outward differences between "traditional" and agile projects is evidence of 
+One of the big outward differences between "traditional" and agile teams is evidence of 
 what we like to call "Big Visible Charts" or "Information Radiators".
 
 Big graphics on the walls of a team space that externalise the state of the team - 
@@ -74,7 +74,7 @@ Many more times over the years I have attended important events and promised mys
 good, long form notes and definitely use them, they will be useful. But there they sit, still 
 in a drawer, curling at the edges, yellowing slightly, unused and unloved. 
  
-# 2 - What?
+# 2 - What? A new Hope
 
 Someone who was equally frustrated with long form, hand-written or typed notes was 
 Mike Rohde, a UX and design specialist in the US. Among Mike's credits are illustrations 
@@ -119,7 +119,7 @@ In ancient greece there are examples of stunning feats of memory and a number of
 many techniques for remembering. Have you seen Benedict Cumberbatch in the BBC reboot of Sherlock Holmes?
 Here he's often shown standing using a memory palace technique? He has put things he wants to remember in 
 order around an imaginary version of a physical place that is well known to him. He can then recall the facts 
-at a later date by walking through his memory palace and recalling each of the items int their place. 
+at a later date by walking through his memory palace and recalling each of the items in their place. 
 
 Today if you ask a magician or mentalist or a memory athlete how they remember so much stuff - the order of playing cards, 
 people's names... they will tell you they use a few techniques (many invented by the greeks) which rely on making 
@@ -198,7 +198,7 @@ would have got an audience!
 # DDD North 2014
 
 I was at DDD North for the first time in 2014 in Leeds.  It was the first time I had done live sketchnoting. I did 
-three sketchnotes from three talks, Eve Baraba, Joel Hammond-Turner and Richard Dalton. I can still remember 
+three sketchnotes from three talks, Eve Barabas, Joel Hammond-Turner and Richard Dalton. I can still remember 
 what those talks were about without referring to my notes just because of the sketchnoting process. It seems that once you 
 have done the sketchnote you can destroy it or never look at it again and you will still retain some of the benefit. 
 I did go to one other talk that day and didn't sketchnote it. I couldn't tell you who delivered it or what it was about.
@@ -517,6 +517,7 @@ Do you prefer more words and fewer pictures or more pictures with just a few key
 add decoration last - 
 
 20 minutes here to the end...
+
 # 8 - Create your own DSL
 
 In the heat of sketchnoting a live event, you often can't spend ten minutes trying to think of the best way to draw a metaphor.
