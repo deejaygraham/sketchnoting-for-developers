@@ -643,6 +643,8 @@ Veronica Erb - uses SNs in her UX work and to help engagement with her clients
 
 For example I wanted to better understand some lean concepts so I did one for Muda, Mura, Muri
 Dreyfuss Model, talk from Kanban Dan Brown about flow in lean systems.
+
+One for fun - Movie scene - Alec Baldwin from Glengary Glenross
 	
 # 11 - My Contribution - In Reverse
 	
@@ -688,8 +690,8 @@ representation. This is one example where I definitely had to have more than one
 something I was comfortable with. Paul has made the procedings available for donations on leanpub 
 
 3. In 2014 Mike Rohde came up with the sequel to the SNH, and called it the SNW and filled it with all 
-the people were using the techniques he had taught in interesting and unusual ways. I can personally 
-recommend page 55 of that book above all of the other, frankly rubbish pages.
+the people were using the techniques he had taught in interesting and unusual ways. Most of it is 
+rubbish but there is one page - page 55 - that is really brilliant.
 		
 ----
 	
