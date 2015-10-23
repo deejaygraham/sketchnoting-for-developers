@@ -746,16 +746,3 @@ How Learning Works - Seven Research-Based Principles for Smart Teaching - Ambros
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-practice pulling out key points from a speaker
-
-When you are doing it you are taking what you are hearing 
-and hooking it to your internal frame of reference, learning is 
-adding new information onto old information that you already have.
-
-VN - listen to what's being said and really hear and understand.
-Come up with your own way to represent, text or images to connect 
-what you are learning to what you already know. 
-
-Find myself asking more questions at conferences - 
-
-
