@@ -1,3 +1,7 @@
+---
+
+---
+
 # Derek Graham
 
 Derek has worked at almost every level of the software development foodchain over the last 20 plus years. He has experience in real-time motion control, ERP stock control and barcoding systems, software licencing, developer tooling and shrink-wrapped software.
